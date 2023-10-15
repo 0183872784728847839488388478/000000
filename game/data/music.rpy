@@ -11,6 +11,8 @@ define audio.data_music_library_7 = "audio/place/library/library_7.mp3"
 define audio.data_sound_bell = "audio/thing/bell.mp3"
 define audio.data_sound_lightning = "audio/magic/lightning.mp3"
 
+define audio.data_magic_fireball_shoot = "audio/magic/fireball/shoot.mp3"
+
 define audio.data_sound_door_knocking = "audio/thing/door/knocking.mp3"
 define audio.data_sound_door_open = "audio/thing/door/open.mp3"
 define audio.data_sound_door_close = "audio/thing/door/close.mp3"

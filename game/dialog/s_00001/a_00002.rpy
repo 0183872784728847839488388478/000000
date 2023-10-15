@@ -1,5 +1,5 @@
 label data_dialog_00001_00002:
-    play audio none fadeout 1
+
     $ renpy.notify('CHAPTER 2')
     
     data_ep_0 "Auriel woke up in the middle of the night and found her room had changed"
@@ -80,7 +80,7 @@ label data_dialog_00001_00002:
 
     data_ep_0 "She open and read a page of a book "
 
-    #Page Opened
+    play audio data_sound_page_flip
 
     data_chr_00003_00004 "\[Thunder\]: A Class Legendary 8 Spell That Can Strike A Lightning On The Target Point"
 
@@ -104,15 +104,25 @@ label data_dialog_00001_00002:
 
     data_ep_0 "She Tried To Cast The Spell Again"
 
+    stop music
+    
     data_chr_00004_00000_00001 "\[Legendary: Saint: Light: Lightning: 6\]"
-
+    
     play sound data_sound_lightning
+    
+    $ renpy.pause(15)
+
+    
+    
+    play music data_music_library_3 loop
 
     data_ep_0 "Suddenly a lightning strike to the room destroying the corridor and causing a fire"
 
     #Fire Sound
 
     data_ep_0 "She run out of the corridor and look back on what she done"
+
+    stop sound
 
     data_ep_0 "to her surprise everything is back to normal with a another paper placed on one of the tables"
 
@@ -128,6 +138,10 @@ label data_dialog_00001_00002:
 
     data_chr_00004_00000_00001 "every book here is interesting....time to read every book..."
 
+    $ renpy.notify('Fast Forward')
+
+    stop music
+
     data_ep_0 "As the time passes by she read a book after book but then a ring of a bell can be heard "
 
     #Ticking Sounds
@@ -140,7 +154,7 @@ label data_dialog_00001_00002:
 
     data_chr_00004_00000_00001 "Good Grief I'm Gonna Be Late"
 
-    jump data_dialog_00001_00003
+    return
 
 
 

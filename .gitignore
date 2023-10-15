@@ -4,3 +4,9 @@
 *.rpyb
 *.rpyc
 *.save
+*.save
+*.rpyc
+*.rpyb
+*.txt
+game/saves/persistent
+*.rpyc

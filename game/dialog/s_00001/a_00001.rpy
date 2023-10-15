@@ -1,5 +1,5 @@
 label data_dialog_00001_00001:
-    stop music fadeout 1
+    
     $ renpy.notify('CHAPTER 1')
     
     data_ep_0 "12 Years has passed and she is now 15 years old"
@@ -104,7 +104,7 @@ label data_dialog_00001_00001:
 
     data_ep_0 "the kingdom\'s academy is the largest academy in the continent that even Royalty\, Nobles\, and Commoners from different kingdom are all together in a single academy because of its reputation"
 
-    data_ep_0 "this is her first time going into the academy" 
+    data_ep_0 "this is her first time going into the academy"
     
     data_chr_00004_00000_00001 "{i}It So Big!{/i}" #Someone surely gonna get this out of context
 
@@ -171,4 +171,4 @@ label data_dialog_00001_00001:
     play sound data_sound_footstep_indoor
     data_ep_0 "she left the room and return to her home"
 
-    jump data_dialog_00001_00002
+    return

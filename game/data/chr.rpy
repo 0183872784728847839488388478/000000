@@ -45,6 +45,7 @@ define data_chr_00005_00004 = Character("Girl 4")
 define data_chr_00005_00005 = Character("Girl 5")
 define data_chr_00005_00006 = Character("Girl 6")
 define data_chr_00005_00007 = Character("Girl 7")
+
 define data_chr_00005_00008 = Character("Boy")
 
 define data_chr_00006_00001 = Character("Alice")

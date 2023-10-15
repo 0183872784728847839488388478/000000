@@ -1,5 +1,5 @@
 label data_dialog_00001_00003:
-    stop music fadeout 1
+
 
     $ renpy.notify('CHAPTER 3')
 
@@ -13,9 +13,7 @@ label data_dialog_00001_00003:
 
     data_ep_0 "She Fire a \[Fireball: 3\] Spell On A Slime "
 
-    #Fireball Sound
-
-    #Fireball Impacted
+    play audio data_magic_fireball_shoot
 
     data_chr_00004_00000_00001 "Oh wow it got oblibrated"
 
@@ -119,13 +117,13 @@ label data_dialog_00001_00003:
 
     data_chr "<sohws taht? olleh?>"
 
-    data_chr_00004_00000_00001 "*what are they speaking?*"
+    data_chr_00004_00000_00001 "{i}what are they speaking?{/i}"
 
     data_ep_0 "Auriel murmur to herself"
 
     data_ep_0 "to her they are speaking nonsense"
 
-    data_chr_00004_00000_00001 "*oh wait im gonna be late, i need to go* "
+    data_chr_00004_00000_00001 "{i}oh wait im gonna be late, i need to go{/i}"
 
     data_ep_0 "she forgoten about her school"
 
@@ -210,4 +208,5 @@ label data_dialog_00001_00003:
     data_ep_0 "the door opened"
 
     data_chr "Oellh?"
-    jump data_dialog_00001_00004
+
+    return

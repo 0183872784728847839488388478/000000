@@ -1,6 +1,5 @@
 label data_dialog_00001_00004:
 
-    stop music fadeout 1
 
     "Chapter 4"
 
@@ -190,3 +189,4 @@ label data_dialog_00001_00004:
 
     data_chr_00004_00000_00001 "Hello Everyone?....what happened"
 
+    return
