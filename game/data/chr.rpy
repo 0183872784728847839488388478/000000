@@ -22,7 +22,7 @@ define data_chr_00001_00004 = Character("Help Bot")
 #Dev Character
 define data_chr_00002 = Character("Game")
 define data_chr_00002_00001 = Character("Human")
-define data_chr_00002_00002 = Character("Dev")
+define data_chr_00002_00002 = Character("Creator")
 define data_chr_00002_00003 = Character("Robot")
 define data_chr_00002_00004 = Character("Entity")
 

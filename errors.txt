@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/dialog/00001/00003.rpy", line 10: Line is indented, but the preceding one-line python statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
-    "Fast Forward To The Over Decorated Interior Mansion"
-    ^
+File "game/dialog/s_00001/a_00001.rpy", line 103: play requires a file
+    play music 
+               ^
 
 Ren'Py Version: Ren'Py 8.1.3.23091805
-Sun Oct 15 10:24:47 2023
+Sun Oct 15 15:05:30 2023
