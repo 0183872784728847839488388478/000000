@@ -1,10 +1,10 @@
 ﻿
 init:
-    $ door_pass = "00000"
+    $ door_pass = "droid"
 
 label before_main_menu:
     "In order to open the door you need to know the password."
-    $ user_pass = renpy.input(u"Enter the password (5 characters)", "00000", length = 5)
+    $ user_pass = renpy.input("Enter the password (5 characters)", "?????", length = 5)
     if user_pass == door_pass:
         return
     else:
@@ -13,8 +13,8 @@ label before_main_menu:
 label start:
 
 label dev_start:
-    $ data_var_00000 = "dev"
-    data_chr_00002 "Checking if you are Dev or not"
+    $ data_var_00000 = "demo"
+    data_chr_00002 "Checking what version is this"
     if data_var_00000 == "dev":
         data_chr_00002 "Jumping To Dev Menu?"
         menu:
@@ -22,6 +22,10 @@ label dev_start:
                 jump dev_menu
             "No!":
                 jump data_dialog_00000_00001
+    elif data_var_00000 == "demo":
+        data_chr_00002 "Demo Mode Enabled"
+        data_chr_00002 "Starting the demo"
+        jump data_dialog_00001_00000
     else:
         data_chr_00002 "Err: Devmode is disabled"
     jump end

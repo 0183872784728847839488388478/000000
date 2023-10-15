@@ -14,13 +14,13 @@ label data_dialog_00001_00002:
 
     data_ep_0 "Confused and startled, she stood up and tried to open the door. "
 
-    #Foot Step
+    play sound data_sound_footstep_indoor
 
-    #Door Opening
+    play sound data_sound_door_open
 
     data_ep_0 "It swung open with ease this time."
 
-    #Door Close
+    play sound data_sound_door_close
 
     data_ep_0 "The Free Standing Door is Connected to a long hallway full of stars"
 
@@ -34,7 +34,7 @@ label data_dialog_00001_00002:
 
     #Running
 
-    #Door Opening
+    play sound data_sound_door_open
 
     $ renpy.notify('??????')
 
