@@ -1,0 +1,296 @@
+Identifier	Character	Dialogue	Filename	Line Number	Ren'Py Script
+data_dialog_00000_00001_80f69c5b	data_chr	Oh Hello	game/dialog/00000/00001.rpy	2	data_chr "[what]"
+data_dialog_00000_00001_a2a53cf3	data_chr	You must developer	game/dialog/00000/00001.rpy	3	data_chr "[what]"
+data_dialog_00000_00001_e2659898	data_chr_00002_00002	I dont know...	game/dialog/00000/00001.rpy	4	data_chr_00002_00002 "[what]"
+data_dialog_00000_00001_f9431a3c	data_chr_00002_00002	Maybe...	game/dialog/00000/00001.rpy	5	data_chr_00002_00002 "[what]"
+data_dialog_00000_00001_b82795ea	data_chr_00002_00002	Who are you anyway?	game/dialog/00000/00001.rpy	6	data_chr_00002_00002 "[what]"
+data_dialog_00000_00001_ad796e78	data_chr	It seems i forgetten to introduce myself	game/dialog/00000/00001.rpy	7	data_chr "[what]"
+data_dialog_00000_00001_0252fc69	data_chr_00002	Am The Game You Are Currently Creating	game/dialog/00000/00001.rpy	8	data_chr_00002 "[what]"
+data_dialog_00000_00001_6969df8e	data_chr_00002_00002	hmm?	game/dialog/00000/00001.rpy	9	data_chr_00002_00002 "[what]"
+data_dialog_00000_00001_9d8a3a67	data_chr_00002	i think you are new here	game/dialog/00000/00001.rpy	10	data_chr_00002 "[what]"
+data_dialog_00000_00001_e4c9c561	data_chr_00002_00002	your kinda rude	game/dialog/00000/00001.rpy	11	data_chr_00002_00002 "[what]"
+data_dialog_00001_00000_c6cb579b	data_chr	Umm what are those thing dad?	game/dialog/00001/00000.rpy	2	data_chr "[what]"
+data_dialog_00001_00000_eb49a7dd	data_ep_0	A cute girl questioning the webs in the sky	game/dialog/00001/00000.rpy	4	data_ep_0 "[what]"
+data_dialog_00001_00000_c55ec3a0	data_chr	Auriel, Those are skytread they are helping us to protect our kingdom	game/dialog/00001/00000.rpy	6	data_chr "[what]"
+data_dialog_00001_00000_5454c11b	data_ep_0	Her Dad answering her question	game/dialog/00001/00000.rpy	8	data_ep_0 "[what]"
+data_dialog_00001_00000_700c1e5f	data_chr_00004_00000	Can i go there?	game/dialog/00001/00000.rpy	10	data_chr_00004_00000 "[what]"
+data_dialog_00001_00000_d9e3f7b4	data_chr_00003_00001	Not yet but One day we will go there and spend sometime	game/dialog/00001/00000.rpy	12	data_chr_00003_00001 "[what]"
+data_dialog_00001_00000_05236745	data_ep_0	Her Father died due to illiness and the promise never delivered	game/dialog/00001/00000.rpy	14	data_ep_0 "[what]"
+data_dialog_00001_00001_c16103c0		CHAPTER 1	game/dialog/00001/00001.rpy	3	"[what]"
+data_dialog_00001_00001_8bb1bea9	data_ep_0	12 Years has passed and she is now 15 years old	game/dialog/00001/00001.rpy	5	data_ep_0 "[what]"
+data_dialog_00001_00001_fcfb3095	data_ep_0	One night while returning to her bedroom to sleep	game/dialog/00001/00001.rpy	7	data_ep_0 "[what]"
+data_dialog_00001_00001_97372694	data_ep_0	she remembered her father's promise	game/dialog/00001/00001.rpy	9	data_ep_0 "[what]"
+data_dialog_00001_00001_2429005c	data_ep_0	she grabs a key from her breast pocket	game/dialog/00001/00001.rpy	11	data_ep_0 "[what]"
+data_dialog_00001_00001_dbff018d	data_chr_00004_00000_00001	One day we will go there and spend sometime	game/dialog/00001/00001.rpy	15	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00001_82fa51ae	data_ep_0	promise to make her father's promise come true at least	game/dialog/00001/00001.rpy	17	data_ep_0 "[what]"
+data_dialog_00001_00001_afd8b056	data_ep_0	Auriel arrived to her bedroom's door and she open it	game/dialog/00001/00001.rpy	19	data_ep_0 "[what]"
+data_dialog_00001_00001_c09a5e16	data_ep_0	her room have a Comfy bed, cabinet, a chandelier and a Door to nothing...	game/dialog/00001/00001.rpy	25	data_ep_0 "[what]"
+data_dialog_00001_00001_6f5883eb	data_ep_0	She is surprise theres a free standing door on her room	game/dialog/00001/00001.rpy	29	data_ep_0 "[what]"
+data_dialog_00001_00001_942b568f	data_ep_0	she went on the front of the door and tried to open the door	game/dialog/00001/00001.rpy	33	data_ep_0 "[what]"
+data_dialog_00001_00001_dc82237f	data_ep_0	but its so heavy that it cant even budge and gave up	game/dialog/00001/00001.rpy	35	data_ep_0 "[what]"
+data_dialog_00001_00001_c7b9d183	data_ep_0	she change to her sleeping outfit and went to bed..	game/dialog/00001/00001.rpy	37	data_ep_0 "[what]"
+data_dialog_00001_00001_31301b57	data_ep_fast_forward	8 hours has passed and she woken up from her sleep	game/dialog/00001/00001.rpy	39	data_ep_fast_forward "[what]"
+data_dialog_00001_00001_398794a0	data_chr_00004_00000_00001	*ahhh good morning from nightmares*	game/dialog/00001/00001.rpy	41	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00001_9ab2e5d5	data_ep_0	Auriel went to her cabinet to change to her usual dress and inspect the heavy door on the middle of the room	game/dialog/00001/00001.rpy	43	data_ep_0 "[what]"
+data_dialog_00001_00001_1f098bcf	data_ep_0	and found that theres symbol that use ancient symbol	game/dialog/00001/00001.rpy	45	data_ep_0 "[what]"
+data_dialog_00001_00001_2f5757fc	data_ep_0	there are 8 symbols and 1 that are glowing	game/dialog/00001/00001.rpy	47	data_ep_0 "[what]"
+data_dialog_00001_00001_4c2a4eb4	data_chr_00004_00000_00001	*I have no clue what are these...oh no am late for entrance exam*	game/dialog/00001/00001.rpy	49	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00001_da4816ac	data_ep_0	she remembered about her entrance exam and went to the kitchen to cook...	game/dialog/00001/00001.rpy	51	data_ep_0 "[what]"
+data_dialog_00001_00001_38e1e915	data_ep_0	Auriel is settled in a remote mansion in the middle of the woods.	game/dialog/00001/00001.rpy	53	data_ep_0 "[what]"
+data_dialog_00001_00001_6693e6b6	data_ep_0	She inherited the mansion after her father passed away and is likely still processing the grief.	game/dialog/00001/00001.rpy	55	data_ep_0 "[what]"
+data_dialog_00001_00001_dbdbb865	data_ep_0	She lives there by herself and often spends her days alone.	game/dialog/00001/00001.rpy	57	data_ep_0 "[what]"
+data_dialog_00001_00001_7a6bad45	data_ep_0	she would rather be alone than having the maid guild assign a maid to a mantion at the middle of the forest full of monsters 	game/dialog/00001/00001.rpy	59	data_ep_0 "[what]"
+data_dialog_00001_00001_8628e839	data_ep_0	after she finish cooking and eat	game/dialog/00001/00001.rpy	61	data_ep_0 "[what]"
+data_dialog_00001_00001_6e33fb9f	data_ep_0	she left the mantion and went thru the wilderness to get in the academy	game/dialog/00001/00001.rpy	63	data_ep_0 "[what]"
+data_dialog_00001_00001_04bd4557	data_ep_0	on this world anyone with the age of 13 and above are called adults and all child restrictions are lift	game/dialog/00001/00001.rpy	65	data_ep_0 "[what]"
+data_dialog_00001_00001_39a648a1	data_ep_0	after an hour and a half of walk and breaks she reach the academy	game/dialog/00001/00001.rpy	67	data_ep_0 "[what]"
+data_dialog_00001_00001_25cf44bb	data_ep_0	the kingdom's academy is the largest academy in the continent that even Royalty, Nobles, and Commoners from different kingdom are all together in a single academy because of its reputation	game/dialog/00001/00001.rpy	69	data_ep_0 "[what]"
+data_dialog_00001_00001_1ccbcf24	data_ep_0	this is her first time going into the academy	game/dialog/00001/00001.rpy	71	data_ep_0 "[what]"
+data_dialog_00001_00001_842a71c8	data_chr_00004_00000_00001	*It So Big!*	game/dialog/00001/00001.rpy	73	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00001_00bf0f8b	data_ep_0	she was shock because of the size of the entrance that she froze for while	game/dialog/00001/00001.rpy	75	data_ep_0 "[what]"
+data_dialog_00001_00001_d467b13f	data_ep_0	as the academy's bell started to ring Auriel went to a classrooms	game/dialog/00001/00001.rpy	79	data_ep_0 "[what]"
+data_dialog_00001_00001_e0d05da5	data_ep_0	on the room there are 120 chairs	game/dialog/00001/00001.rpy	81	data_ep_0 "[what]"
+data_dialog_00001_00001_0ed3baad	data_ep_0	they are allowed to pick what chair they want	game/dialog/00001/00001.rpy	83	data_ep_0 "[what]"
+data_dialog_00001_00001_966fb1f5	data_ep_0	as per usual.. Cheating in any way will immediately kick you out and never be able to take the exam for a year	game/dialog/00001/00001.rpy	85	data_ep_0 "[what]"
+data_dialog_00001_00001_d50872b6	data_ep_0	she pick the chair on the center-right from the door and wait for other participants to start the exam	game/dialog/00001/00001.rpy	87	data_ep_0 "[what]"
+data_dialog_00001_00001_e5629093	data_ep_0	a professor go to the front of the room to sign the start of the exam	game/dialog/00001/00001.rpy	89	data_ep_0 "[what]"
+data_dialog_00001_00001_6f682a3b	data_chr_00003_00002	you may begin	game/dialog/00001/00001.rpy	91	data_chr_00003_00002 "[what]"
+data_dialog_00001_00001_0c966f6b	data_ep_0	everyone in the room flip their papers and start answering the exam	game/dialog/00001/00001.rpy	95	data_ep_0 "[what]"
+data_dialog_00001_00001_c9918814	data_ep_0	it would take 3 Hours to finish entrance exam	game/dialog/00001/00001.rpy	97	data_ep_0 "[what]"
+data_dialog_00001_00001_002ced1d	data_ep_0	the exam contains question about Magic, Types, Monster, Topography, History, Abilities, Elements, Artifacts and More.	game/dialog/00001/00001.rpy	99	data_ep_0 "[what]"
+data_dialog_00001_00001_09e73922	data_ep_0	the exam is very hard you need to get atleast 40% to pass and only 25k or less students pass the entrance exam per year	game/dialog/00001/00001.rpy	101	data_ep_0 "[what]"
+data_dialog_00001_00001_d43ebeb3	data_ep_0	she finish the exam 1 hour before the time limit and take a nap	game/dialog/00001/00001.rpy	103	data_ep_0 "[what]"
+data_dialog_00001_00001_985a0086	data_ep_0	bell rang as the exam is about to close	game/dialog/00001/00001.rpy	105	data_ep_0 "[what]"
+data_dialog_00001_00001_bc020b0b	data_ep_0	Auriel woke up just as the professor about to announce something.	game/dialog/00001/00001.rpy	107	data_ep_0 "[what]"
+data_dialog_00001_00001_3aa46730	data_ep_0	Her eyes slowly adjusted to the bright lights of the room	game/dialog/00001/00001.rpy	109	data_ep_0 "[what]"
+data_dialog_00001_00001_2c27cf02	data_ep_0	as she struggled to keep from yawning. She was exhausted after having taken the entrance exam	game/dialog/00001/00001.rpy	111	data_ep_0 "[what]"
+data_dialog_00001_00001_d2ebb90e	data_ep_0	which she'd spent nearly all of her time preparing for. Despite her tiredness	game/dialog/00001/00001.rpy	113	data_ep_0 "[what]"
+data_dialog_00001_00001_d5393e9c	data_ep_0	Auriel was curious what it was that the professor was announcing	game/dialog/00001/00001.rpy	115	data_ep_0 "[what]"
+data_dialog_00001_00001_6d85e06d	data_ep_0	so she sat forward in her chair and focused on listening.	game/dialog/00001/00001.rpy	117	data_ep_0 "[what]"
+data_dialog_00001_00001_55a8dcb8	data_chr_00003_00002	Times up everyone flip your papers. make sure to put a name on it. the passing names will be posted in the academy's board tommorow with what room you will be in	game/dialog/00001/00001.rpy	119	data_chr_00003_00002 "[what]"
+data_dialog_00001_00001_ec4f2db9	data_ep_0	she left the room and return to her home	game/dialog/00001/00001.rpy	121	data_ep_0 "[what]"
+data_dialog_00001_00002_63520d51		CHAPTER 2	game/dialog/00001/00002.rpy	3	"[what]"
+data_dialog_00001_00002_15a2c94d	data_ep_0	Auriel woke up in the middle of the night and found her room had changed	game/dialog/00001/00002.rpy	5	data_ep_0 "[what]"
+data_dialog_00001_00002_70a3fdb9	data_ep_0	It now decorated with luxurious furniture	game/dialog/00001/00002.rpy	7	data_ep_0 "[what]"
+data_dialog_00001_00002_0b9fcc24	data_chr_00004_00000_00001	How The Hell This Happened?	game/dialog/00001/00002.rpy	9	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00002_9790fddc	data_ep_0	The Door In the middle of the room is suddenly glowing blue	game/dialog/00001/00002.rpy	11	data_ep_0 "[what]"
+data_dialog_00001_00002_890561c7	data_ep_0	Confused and startled, she stood up and tried to open the door. 	game/dialog/00001/00002.rpy	13	data_ep_0 "[what]"
+data_dialog_00001_00002_75ea4866	data_ep_0	It swung open with ease this time.	game/dialog/00001/00002.rpy	19	data_ep_0 "[what]"
+data_dialog_00001_00002_49b015e1	data_ep_0	The Free Standing Door is Connected to a long hallway full of stars	game/dialog/00001/00002.rpy	23	data_ep_0 "[what]"
+data_dialog_00001_00002_07f6ab52	data_ep_0	she walk thru the door to see a beautiful scenery 	game/dialog/00001/00002.rpy	25	data_ep_0 "[what]"
+data_dialog_00001_00002_c16ee79a	data_ep_0	as she walks thru she see a another door coming in the view	game/dialog/00001/00002.rpy	27	data_ep_0 "[what]"
+data_dialog_00001_00002_17870878	data_ep_0	Auriel run to the door and open it	game/dialog/00001/00002.rpy	29	data_ep_0 "[what]"
+data_dialog_00001_00002_f8c9072a	data_ep_0	she sees a desk, tables, bookshelfs are full to the brim of books, chairs on every corridor and a big clock on the high wall	game/dialog/00001/00002.rpy	35	data_ep_0 "[what]"
+data_dialog_00001_00002_991fad61	data_ep_0	she hears a so satisfying yet so mystrious song playing through the whole room	game/dialog/00001/00002.rpy	41	data_ep_0 "[what]"
+data_dialog_00001_00002_e79b36b8	data_ep_0	She went to the desk and found a note on the desk	game/dialog/00001/00002.rpy	43	data_ep_0 "[what]"
+data_dialog_00001_00002_4b22ab79	data_chr_00003_00003	"Congratulations Auriel, you passed the entrance exam," 	game/dialog/00001/00002.rpy	45	data_chr_00003_00003 "[what]"
+data_dialog_00001_00002_4ad8d18f	data_chr_00003_00003	"I hope giving this library full of knowledge about the whole world help you."	game/dialog/00001/00002.rpy	47	data_chr_00003_00003 "[what]"
+data_dialog_00001_00002_e9c20c5a	data_ep_0	Auriel was still staring at the note, trying to process the information.	game/dialog/00001/00002.rpy	49	data_ep_0 "[what]"
+data_dialog_00001_00002_12a7dfa6	data_chr_00004_00000_00001	I passed the entrance exam?	game/dialog/00001/00002.rpy	51	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00002_2d441d5b	data_ep_0	she repeated to herself.	game/dialog/00001/00002.rpy	53	data_ep_0 "[what]"
+data_dialog_00001_00002_b24d3490	data_ep_0	as she wondered what this meant for her	game/dialog/00001/00002.rpy	55	data_ep_0 "[what]"
+data_dialog_00001_00002_3deca6f9	data_ep_0	She explore the library and found that every corridor that have a sign infront of it 	game/dialog/00001/00002.rpy	59	data_ep_0 "[what]"
+data_dialog_00001_00002_29c37aaa	data_ep_0	with certain number indicating to it and hears the song changing based on where she walking thru	game/dialog/00001/00002.rpy	61	data_ep_0 "[what]"
+data_dialog_00001_00002_3370dfca	data_chr_00004_00000_00001	8?	game/dialog/00001/00002.rpy	63	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00002_edbf8128	data_ep_0	She went to a corridor with a sign "8" and went to the shelf to drag a book out	game/dialog/00001/00002.rpy	65	data_ep_0 "[what]"
+data_dialog_00001_00002_6e8c264e	data_ep_0	Its a magic book its named "Saint"	game/dialog/00001/00002.rpy	69	data_ep_0 "[what]"
+data_dialog_00001_00002_28f7f05b	data_ep_0	She open and read a page of a book 	game/dialog/00001/00002.rpy	71	data_ep_0 "[what]"
+data_dialog_00001_00002_a0c7bb74	data_ep_0	"[[Thunder]: A Class Legendary 8 Spell That Can Strike A Lightning On The Target Point"	game/dialog/00001/00002.rpy	75	data_ep_0 "[what]"
+data_dialog_00001_00002_99081682	data_ep_0	it reads	game/dialog/00001/00002.rpy	77	data_ep_0 "[what]"
+data_dialog_00001_00002_ff809b89	data_chr_00004_00000_00001	hmm what? is this a spell? Let's try this. [[Thunder]	game/dialog/00001/00002.rpy	79	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00002_d101a5b1	data_ep_0	She Tried To Cast It But It Did Not Work	game/dialog/00001/00002.rpy	81	data_ep_0 "[what]"
+data_dialog_00001_00002_4d243555	data_ep_0	Suddenly A Piece of paper dropped from the ceiling	game/dialog/00001/00002.rpy	83	data_ep_0 "[what]"
+data_dialog_00001_00002_b0578aba	data_chr_00004_00000_00001	wheres that paper come from?	game/dialog/00001/00002.rpy	85	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00002_42c6e409	data_ep_0	looks up and grab the paper	game/dialog/00001/00002.rpy	87	data_ep_0 "[what]"
+data_dialog_00001_00002_803a02e2	data_ep_0	She open the paper and read the text written to it	game/dialog/00001/00002.rpy	89	data_ep_0 "[what]"
+data_dialog_00001_00002_eaa82930	data_chr_00003_00003	"To Cast Library Kind Spell You Can Think Of The Rarity, Book, Class, Type, Name Of The Spell and Level Of The Spell"	game/dialog/00001/00002.rpy	91	data_chr_00003_00003 "[what]"
+data_dialog_00001_00002_4d4eae80	data_chr_00004_00000_00001	what.... okay then	game/dialog/00001/00002.rpy	93	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00002_5bd9ac6a	data_ep_0	She Tried To Cast The Spell Again	game/dialog/00001/00002.rpy	95	data_ep_0 "[what]"
+data_dialog_00001_00002_a3168250	data_chr_00004_00000_00001	[[Legendary: Saint: Light: Lightning: 6]	game/dialog/00001/00002.rpy	97	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00002_d5ef385c	data_ep_0	Suddenly a lightning strike to the room destroying the corridor and causing a fire	game/dialog/00001/00002.rpy	101	data_ep_0 "[what]"
+data_dialog_00001_00002_4669bbb3	data_ep_0	She run out of the corridor and look back on what she done	game/dialog/00001/00002.rpy	105	data_ep_0 "[what]"
+data_dialog_00001_00002_f83e8f8e	data_ep_0	to her surprise everything is back to normal with a another paper placed on one of the tables	game/dialog/00001/00002.rpy	107	data_ep_0 "[what]"
+data_dialog_00001_00002_9f0316d5	data_chr_00003_00003	"Using a magic in the library can be dangerous so I made a testing room near the door you went in."	game/dialog/00001/00002.rpy	109	data_chr_00003_00003 "[what]"
+data_dialog_00001_00002_3aef1006	data_chr_00003_00003	"Also you can't damage anything in the library so don't worry about what you did"	game/dialog/00001/00002.rpy	111	data_chr_00003_00003 "[what]"
+data_dialog_00001_00002_c3dae3a8	data_chr_00003_00003	"When Casting A Spell The Chanting Does Not Matter it's about how you define that spell you want"	game/dialog/00001/00002.rpy	113	data_chr_00003_00003 "[what]"
+data_dialog_00001_00002_e6b6ac9f	data_chr_00004_00000_00001	good grief I thought I destroy the library	game/dialog/00001/00002.rpy	115	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00002_b67d31a9	data_ep_0	She felt relieved after not getting a scolding paper	game/dialog/00001/00002.rpy	117	data_ep_0 "[what]"
+data_dialog_00001_00002_af028615	data_chr_00004_00000_00001	every book here is interesting....time to read every book...	game/dialog/00001/00002.rpy	119	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00002_c921fcee	data_ep_0	As the time passes by she read a book after book but then a ring of a bell can be heard 	game/dialog/00001/00002.rpy	121	data_ep_0 "[what]"
+data_dialog_00001_00002_72d94197	data_ep_0	She panicked and look at the time	game/dialog/00001/00002.rpy	127	data_ep_0 "[what]"
+data_dialog_00001_00002_27b47cb6	data_ep_0	It's 7 o'Clock	game/dialog/00001/00002.rpy	129	data_ep_0 "[what]"
+data_dialog_00001_00002_935ed72f	data_chr_00004_00000_00001	Good Grief I'm Gonna Be Late	game/dialog/00001/00002.rpy	131	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00003_692f7421		CHAPTER 3	game/dialog/00001/00003.rpy	2	"[what]"
+data_dialog_00001_00003_3d00c1e1	data_ep_fast_forward	Fast Forward To The Over Decorated Interior Mansion	game/dialog/00001/00003.rpy	4	data_ep_fast_forward "[what]"
+data_dialog_00001_00003_f6bb1689	data_ep_0	Auriel Ready All Her Things And Went Running Thru The Forrest	game/dialog/00001/00003.rpy	6	data_ep_0 "[what]"
+data_dialog_00001_00003_d7325bf1	data_ep_0	On The Way She Test The Spell She Learned From The Library 	game/dialog/00001/00003.rpy	8	data_ep_0 "[what]"
+data_dialog_00001_00003_9bcb38f7	data_ep_0	She Fire a [[Fireball: 3[[ Spell On A Slime 	game/dialog/00001/00003.rpy	10	data_ep_0 "[what]"
+data_dialog_00001_00003_b14140c4	data_chr_00004_00000_00001	Oh wow it got oblibrated	game/dialog/00001/00003.rpy	12	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00003_00f31599	data_ep_0	Then She Tried Another Spell [[Speed: 2[[ Which To Her Surprise Make Her Go Faster	game/dialog/00001/00003.rpy	14	data_ep_0 "[what]"
+data_dialog_00001_00003_2ef0762f	data_ep_0	But In Exchange She Would Feel Light Headed Overtime	game/dialog/00001/00003.rpy	16	data_ep_0 "[what]"
+data_dialog_00001_00003_a1838f17	data_ep_0	she take a break before continuting	game/dialog/00001/00003.rpy	18	data_ep_0 "[what]"
+data_dialog_00001_00003_5f4e08ef	data_ep_0	while taking a break she hears a mysterious sound similar to the sounds in the library and a light flashed between the trees	game/dialog/00001/00003.rpy	20	data_ep_0 "[what]"
+data_dialog_00001_00003_8caed697	data_ep_0	she saw a group of 7 girls in a foreign clothes (Uniforms?) 	game/dialog/00001/00003.rpy	22	data_ep_0 "[what]"
+data_dialog_00001_00003_7fad738b	data_ep_0	with it seems like they saying something that she does not understand 	game/dialog/00001/00003.rpy	24	data_ep_0 "[what]"
+data_dialog_00001_00003_bb93fe8f	data_ep_pov_swap		game/dialog/00001/00003.rpy	26	data_ep_pov_swap "[what]"
+data_dialog_00001_00003_2ef26c1f	data_chr_00005_00001	<Wait Where Are We?>	game/dialog/00001/00003.rpy	28	data_chr_00005_00001 "[what]"
+data_dialog_00001_00003_24627f1f	data_chr_00005_00003	<I Don't Know>	game/dialog/00001/00003.rpy	30	data_chr_00005_00003 "[what]"
+data_dialog_00001_00003_2a8d3ce5	data_chr_00005_00002	<We were in the campus's hallway>	game/dialog/00001/00003.rpy	32	data_chr_00005_00002 "[what]"
+data_dialog_00001_00003_5362f0e9	data_chr_00005_00004	<Axel, Stop Holding Me>	game/dialog/00001/00003.rpy	34	data_chr_00005_00004 "[what]"
+data_dialog_00001_00003_f399792f	data_chr_00006_00005	<I'm Scarred Okay>	game/dialog/00001/00003.rpy	36	data_chr_00006_00005 "[what]"
+data_dialog_00001_00003_6a9a3126	data_chr_00005_00006	<Well It Cant Be Help>	game/dialog/00001/00003.rpy	38	data_chr_00005_00006 "[what]"
+data_dialog_00001_00003_7dd2f8bc	data_chr_00005_00007	<this is getting weirder and weirder>	game/dialog/00001/00003.rpy	40	data_chr_00005_00007 "[what]"
+data_dialog_00001_00003_3efb0bb5	data_ep_0	Suddenly A Boy Just Magically Fall Off From The Sky	game/dialog/00001/00003.rpy	42	data_ep_0 "[what]"
+data_dialog_00001_00003_225c4d15	data_chr_00005_00008	<Agh, that's a litteral fall..>	game/dialog/00001/00003.rpy	44	data_chr_00005_00008 "[what]"
+data_dialog_00001_00003_c241af25	data_chr_00005_00008	<How the hell did I survived that>	game/dialog/00001/00003.rpy	46	data_chr_00005_00008 "[what]"
+data_dialog_00001_00003_3b072598	data_chr_00005_00004	<Marcus?, Why are you here?>	game/dialog/00001/00003.rpy	48	data_chr_00005_00004 "[what]"
+data_dialog_00001_00003_c0856aee	data_chr_00006_00008	<Im in the classroom and then I just fallen off the floor then this happened>	game/dialog/00001/00003.rpy	50	data_chr_00006_00008 "[what]"
+data_dialog_00001_00003_485969b3	data_chr_00006_00008	<what about you? Ella Why Are You here?>	game/dialog/00001/00003.rpy	52	data_chr_00006_00008 "[what]"
+data_dialog_00001_00003_edc44522	data_chr_00006_00004	<We have the same thing happened>	game/dialog/00001/00003.rpy	54	data_chr_00006_00004 "[what]"
+data_dialog_00001_00003_f2ff13d5	data_chr_00006_00004	<but we just Teleported? Into this place>	game/dialog/00001/00003.rpy	56	data_chr_00006_00004 "[what]"
+data_dialog_00001_00003_c62034cb	data_chr_00006_00008	<Well It Can't Be Helped>	game/dialog/00001/00003.rpy	58	data_chr_00006_00008 "[what]"
+data_dialog_00001_00003_48937c9d	data_chr_00006_00008	<It Seems Like You Have Friends Here>	game/dialog/00001/00003.rpy	60	data_chr_00006_00008 "[what]"
+data_dialog_00001_00003_96f20b95	data_chr_00005_00001	<Alice>	game/dialog/00001/00003.rpy	62	data_chr_00005_00001 "[what]"
+data_dialog_00001_00003_c169504f	data_chr_00005_00002	<Stephanie>	game/dialog/00001/00003.rpy	64	data_chr_00005_00002 "[what]"
+data_dialog_00001_00003_f10dc8c2	data_chr_00005_00003	<Rose>	game/dialog/00001/00003.rpy	66	data_chr_00005_00003 "[what]"
+data_dialog_00001_00003_451d7360	data_chr_00006_00005	<Axel.... >	game/dialog/00001/00003.rpy	68	data_chr_00006_00005 "[what]"
+data_dialog_00001_00003_61e33ef7	data_chr_00005_00006	<Pepper>	game/dialog/00001/00003.rpy	70	data_chr_00005_00006 "[what]"
+data_dialog_00001_00003_d0bece69	data_chr_00005_00007	<My Name Is Christine>	game/dialog/00001/00003.rpy	72	data_chr_00005_00007 "[what]"
+data_dialog_00001_00003_33d52bfe	data_chr_00006_00008	<Well My Name Is Marcus Nice To Meet You All>	game/dialog/00001/00003.rpy	74	data_chr_00006_00008 "[what]"
+data_dialog_00001_00003_f54ef202	data_chr_00006_00004	<Now What?...>	game/dialog/00001/00003.rpy	76	data_chr_00006_00004 "[what]"
+data_dialog_00001_00003_e3278d3c	data_chr_00006_00007	<I Dont Know But What If We Start Walking>	game/dialog/00001/00003.rpy	78	data_chr_00006_00007 "[what]"
+data_dialog_00001_00003_562c8d09	data_ep_0	The Began Walking Thru The Forest	game/dialog/00001/00003.rpy	80	data_ep_0 "[what]"
+data_dialog_00001_00003_4d01deec	data_ep_forward	Several Minutes Later Of Silence	game/dialog/00001/00003.rpy	82	data_ep_forward "[what]"
+data_dialog_00001_00003_2fa714c6	data_chr_00006_00007	<Are we just going circle for the passed minute?>	game/dialog/00001/00003.rpy	84	data_chr_00006_00007 "[what]"
+data_dialog_00001_00003_9f40c536	data_chr_00006_00001	<its seems so>	game/dialog/00001/00003.rpy	86	data_chr_00006_00001 "[what]"
+data_dialog_00001_00003_d0c16d1c	data_chr	era yhet soronM?	game/dialog/00001/00003.rpy	88	data_chr "[what]"
+data_dialog_00001_00003_8c4e6413	data_chr_00006_00001	<Whos That? Hello?>	game/dialog/00001/00003.rpy	90	data_chr_00006_00001 "[what]"
+data_dialog_00001_00003_2dbeef99	data_chr	~Fufu	game/dialog/00001/00003.rpy	92	data_chr "[what]"
+data_dialog_00001_00003_e5fc7de4	data_chr_00006_00005	<Elle Am Scared>	game/dialog/00001/00003.rpy	94	data_chr_00006_00005 "[what]"
+data_dialog_00001_00003_cff780c2	data_chr_00006_00008	<Who Are You? Come Out Come Out Whoever You Are>	game/dialog/00001/00003.rpy	96	data_chr_00006_00008 "[what]"
+data_dialog_00001_00003_9e8356a7	data_ep_backward	Back To Auriel's Pov	game/dialog/00001/00003.rpy	98	data_ep_backward "[what]"
+data_dialog_00001_00003_f38935cb	data_chr_00004_00000_00001	Are they Morons?	game/dialog/00001/00003.rpy	100	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00003_60a7ff49	data_chr	<sohws taht? olleh?>	game/dialog/00001/00003.rpy	102	data_chr "[what]"
+data_dialog_00001_00003_fcf60462	data_chr_00004_00000_00001	*what are they speaking?*	game/dialog/00001/00003.rpy	104	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00003_4dcac103	data_ep_0	Auriel murmur to herself	game/dialog/00001/00003.rpy	106	data_ep_0 "[what]"
+data_dialog_00001_00003_dc78a274	data_ep_0	to her they are speaking nonsense	game/dialog/00001/00003.rpy	108	data_ep_0 "[what]"
+data_dialog_00001_00003_4a57f713	data_chr_00004_00000_00001	*oh wait im gonna be late, i need to go* 	game/dialog/00001/00003.rpy	110	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00003_2742df2e	data_ep_0	she forgoten about her school	game/dialog/00001/00003.rpy	112	data_ep_0 "[what]"
+data_dialog_00001_00003_07a948fd	data_ep_forward	Group's Prespective	game/dialog/00001/00003.rpy	114	data_ep_forward "[what]"
+data_dialog_00001_00003_11572f5d	data_ep_0	they heard a branch of a tree rattling	game/dialog/00001/00003.rpy	116	data_ep_0 "[what]"
+data_dialog_00001_00003_fd0e19c2	data_chr_00006_00007	<what is it?>	game/dialog/00001/00003.rpy	118	data_chr_00006_00007 "[what]"
+data_dialog_00001_00003_d98e59ff	data_ep_0	they saw a girl falling off a tree 	game/dialog/00001/00003.rpy	120	data_ep_0 "[what]"
+data_dialog_00001_00003_28ee1a8c	data_ep_0	and start running	game/dialog/00001/00003.rpy	122	data_ep_0 "[what]"
+data_dialog_00001_00003_5deeddd5	data_ep_0		game/dialog/00001/00003.rpy	124	data_ep_0 "[what]"
+data_dialog_00001_00003_9fc7f888	data_chr_00004_00000_00001	Oh They Literally See Me	game/dialog/00001/00003.rpy	126	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00003_2a751746	data_chr_00004_00000_00001	I Should Go Instead Home	game/dialog/00001/00003.rpy	128	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00003_5deeddd5_1	data_ep_0		game/dialog/00001/00003.rpy	130	data_ep_0 "[what]"
+data_dialog_00001_00003_d270753c	data_chr_00006_00007	<Wait Who Are You>	game/dialog/00001/00003.rpy	132	data_chr_00006_00007 "[what]"
+data_dialog_00001_00003_0cfc265c	data_ep_0	They Start Running After The Mysterious Girl	game/dialog/00001/00003.rpy	134	data_ep_0 "[what]"
+data_dialog_00001_00003_756bba31	data_ep_forward	Few Minutes Later	game/dialog/00001/00003.rpy	136	data_ep_forward "[what]"
+data_dialog_00001_00003_24492c34	data_chr_00006_00003	<Good Grief She Is So Fast>	game/dialog/00001/00003.rpy	138	data_chr_00006_00003 "[what]"
+data_dialog_00001_00003_d17433fd	data_chr_00006_00005	<My Legs Hurt>	game/dialog/00001/00003.rpy	140	data_chr_00006_00005 "[what]"
+data_dialog_00001_00003_fae2fa4f	data_chr_00006_00008	<Whats that house on the mountain>	game/dialog/00001/00003.rpy	142	data_chr_00006_00008 "[what]"
+data_dialog_00001_00003_5fcc186e	data_chr_00006_00004	<I dont know maybe someone living there>	game/dialog/00001/00003.rpy	144	data_chr_00006_00004 "[what]"
+data_dialog_00001_00003_897cf606	data_chr_00006_00001	<we are currently in emergency so i think its fine>	game/dialog/00001/00003.rpy	146	data_chr_00006_00001 "[what]"
+data_dialog_00001_00003_dbee64db	data_chr_00006_00003	<let see>	game/dialog/00001/00003.rpy	148	data_chr_00006_00003 "[what]"
+data_dialog_00001_00003_c92dcc27	data_ep_backward	Auriel's Pov	game/dialog/00001/00003.rpy	150	data_ep_backward "[what]"
+data_dialog_00001_00003_6364bf8b	data_chr_00004_00000_00001	They saw me	game/dialog/00001/00003.rpy	152	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00003_e39157b2	data_chr_00004_00000_00001	Im gonna be absent for today	game/dialog/00001/00003.rpy	154	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00003_07715ba0	data_ep_0	she rest on a tree to take a break	game/dialog/00001/00003.rpy	156	data_ep_0 "[what]"
+data_dialog_00001_00003_999d679a	data_chr_00004_00000_00001	they might see me and follow me and cause chaos	game/dialog/00001/00003.rpy	158	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00003_736e5723	data_ep_0	she remembered something	game/dialog/00001/00003.rpy	160	data_ep_0 "[what]"
+data_dialog_00001_00003_d2c10fc9	data_chr_00004_00000_00001	wait i forgeten about that spell....thats annoying 	game/dialog/00001/00003.rpy	162	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00003_d0968c7f	data_ep_0	annoyed she casts a spell on herself 	game/dialog/00001/00003.rpy	164	data_ep_0 "[what]"
+data_dialog_00001_00003_050da66f	data_ep_0	[[Refresh] Shes Ready To Run Again	game/dialog/00001/00003.rpy	166	data_ep_0 "[what]"
+data_dialog_00001_00003_92e7812c	data_chr_00004_00000_00001	Time To Go Home	game/dialog/00001/00003.rpy	168	data_chr_00004_00000_00001 "[what]"
+data_dialog_00001_00003_d38f143e	data_ep_forward	Going Back To The Group	game/dialog/00001/00003.rpy	170	data_ep_forward "[what]"
+data_dialog_00001_00003_d5d407d0	data_ep_0	the group arrived at the house	game/dialog/00001/00003.rpy	172	data_ep_0 "[what]"
+data_dialog_00001_00003_1a22c0b7	data_chr_00006_00008	<Wow this is big>	game/dialog/00001/00003.rpy	174	data_chr_00006_00008 "[what]"
+data_dialog_00001_00003_3068ee1e	data_chr_00006_00001	<Yeah, Oh the lights is on someone maybe inside>	game/dialog/00001/00003.rpy	176	data_chr_00006_00001 "[what]"
+data_dialog_00001_00003_06bcb7e9	data_ep_0	<lets knock>	game/dialog/00001/00003.rpy	178	data_ep_0 "[what]"
+data_dialog_00001_00003_89b04c1b	data_ep_0	*knock knock*	game/dialog/00001/00003.rpy	180	data_ep_0 "[what]"
+data_dialog_00001_00003_0284ed59	data_chr_00006_00007	<This Might Be A Bad Idea>	game/dialog/00001/00003.rpy	182	data_chr_00006_00007 "[what]"
+data_dialog_00001_00003_a3e01581	data_ep_0	the door opened	game/dialog/00001/00003.rpy	184	data_ep_0 "[what]"
+data_dialog_00001_00003_a0686f7a	data_chr	Oellh?	game/dialog/00001/00003.rpy	186	data_chr "[what]"
+		Skythread	game/main/options.rpy	15
+		Back	game/main/screens.rpy	252
+		History	game/main/screens.rpy	253
+		Skip	game/main/screens.rpy	254
+		Auto	game/main/screens.rpy	255
+		Save	game/main/screens.rpy	256
+		Q.Save	game/main/screens.rpy	257
+		Q.Load	game/main/screens.rpy	258
+		Prefs	game/main/screens.rpy	259
+		Start	game/main/screens.rpy	300
+		Load	game/main/screens.rpy	308
+		Preferences	game/main/screens.rpy	310
+		End Replay	game/main/screens.rpy	314
+		Main Menu	game/main/screens.rpy	318
+		Help	game/main/screens.rpy	323
+		{#file_time}%A, %B %d %Y, %H:%M	game/main/screens.rpy	601
+		empty slot	game/main/screens.rpy	601
+		<	game/main/screens.rpy	621
+		{#auto_page}A	game/main/screens.rpy	624
+		{#quick_page}Q	game/main/screens.rpy	627
+		>	game/main/screens.rpy	633
+		Display	game/main/screens.rpy	691
+		Window	game/main/screens.rpy	692
+		Unseen Text	game/main/screens.rpy	698
+		After Choices	game/main/screens.rpy	699
+		Transitions	game/main/screens.rpy	700
+		Text Speed	game/main/screens.rpy	713
+		Auto-Forward Time	game/main/screens.rpy	717
+		Music Volume	game/main/screens.rpy	724
+		Sound Volume	game/main/screens.rpy	731
+		Test	game/main/screens.rpy	737
+		Mute All	game/main/screens.rpy	752
+		The dialogue history is empty.	game/main/screens.rpy	871
+		Keyboard	game/main/screens.rpy	939
+		Mouse	game/main/screens.rpy	940
+		Enter	game/main/screens.rpy	956
+		Advances dialogue and activates the interface.	game/main/screens.rpy	957
+		Space	game/main/screens.rpy	960
+		Advances dialogue without selecting choices.	game/main/screens.rpy	961
+		Arrow Keys	game/main/screens.rpy	964
+		Navigate the interface.	game/main/screens.rpy	965
+		Escape	game/main/screens.rpy	968
+		Accesses the game menu.	game/main/screens.rpy	969
+		Ctrl	game/main/screens.rpy	972
+		Skips dialogue while held down.	game/main/screens.rpy	973
+		Tab	game/main/screens.rpy	976
+		Toggles dialogue skipping.	game/main/screens.rpy	977
+		Page Up	game/main/screens.rpy	980
+		Rolls back to earlier dialogue.	game/main/screens.rpy	981
+		Page Down	game/main/screens.rpy	984
+		Rolls forward to later dialogue.	game/main/screens.rpy	985
+		Hides the user interface.	game/main/screens.rpy	989
+		Takes a screenshot.	game/main/screens.rpy	993
+		Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}.	game/main/screens.rpy	997
+		Opens the accessibility menu.	game/main/screens.rpy	1001
+		Left Click	game/main/screens.rpy	1007
+		Middle Click	game/main/screens.rpy	1011
+		Right Click	game/main/screens.rpy	1015
+		Mouse Wheel Up\nClick Rollback Side	game/main/screens.rpy	1019
+		Mouse Wheel Down	game/main/screens.rpy	1023
+		Right Trigger\nA/Bottom Button	game/main/screens.rpy	1030
+		Left Trigger\nLeft Shoulder	game/main/screens.rpy	1034
+		Right Shoulder	game/main/screens.rpy	1038
+		D-Pad, Sticks	game/main/screens.rpy	1043
+		Start, Guide	game/main/screens.rpy	1047
+		Y/Top Button	game/main/screens.rpy	1051
+		Skipping	game/main/screens.rpy	1166
+		Menu	game/main/screens.rpy	1478
+dev_start_6a215de1	data_chr_00002	Checking if you are Dev or not	game/main/script.rpy	7	data_chr_00002 "[what]"
+dev_start_5071d73b	data_chr_00002	Jumping To Dev Menu?	game/main/script.rpy	9	data_chr_00002 "[what]"
+		Yes!	game/main/script.rpy	10
+		No!	game/main/script.rpy	10
+dev_start_d77d1217	data_chr_00002	Err: Devmode is disabled	game/main/script.rpy	16	data_chr_00002 "[what]"
+dev_menu_9385bee0	data_chr_00002	Hello, Where Do You Wanna Warp?	game/main/script.rpy	20	data_chr_00002 "[what]"
+		Start?	game/main/script.rpy	21
+		EP 1	game/main/script.rpy	21
+		EP 2	game/main/script.rpy	21
+		EP 3	game/main/script.rpy	21
+		EP 4	game/main/script.rpy	21
+		End	game/main/script.rpy	21
+end_13add08e	data_chr_00001_00001	Sayonara	game/main/script.rpy	37	data_chr_00001_00001 "[what]"

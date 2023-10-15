@@ -1,0 +1,24 @@
+Character Data
+## Main Character
+
+- Auriel
+
+## Other Worlder Students
+
+###Boys:
+
+- Marcus
+
+###Girls:
+
+- Alice
+- Stephanie
+- Rose
+- Axel
+- Pepper
+- Christine
+- Elle
+
+
+Tags:
+  Data, Story
