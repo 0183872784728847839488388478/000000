@@ -1,8 +1,10 @@
 label data_dialog_00001_00002:
     play music none
-    "CHAPTER 2"
-        
+    $ renpy.notify('CHAPTER 2')
+    
     data_ep_0 "Auriel woke up in the middle of the night and found her room had changed"
+
+    $ renpy.notify('Auriel\'s Bedroom ')
 
     data_ep_0 "It now decorated with luxurious furniture"
 
@@ -24,6 +26,8 @@ label data_dialog_00001_00002:
 
     data_ep_0 "she walk thru the door to see a beautiful scenery "
 
+    $ renpy.notify('????? Corridor')
+
     data_ep_0 "as she walks thru she see a another door coming in the view"
 
     data_ep_0 "Auriel run to the door and open it"
@@ -31,6 +35,8 @@ label data_dialog_00001_00002:
     #Running
 
     #Door Opening
+
+    $ renpy.notify('??????')
 
     data_ep_0 "she sees a desk, tables, bookshelfs are full to the brim of books, chairs on every corridor and a big clock on the high wall"
 
@@ -58,9 +64,13 @@ label data_dialog_00001_00002:
 
     data_ep_0 "She explore the library and found that every corridor that have a sign infront of it "
 
+    $ renpy.notify('Library\'s Corridor')
+
     data_ep_0 "with certain number indicating to it and hears the song changing based on where she walking thru"
 
     data_chr_00004_00000_00001 "8?"
+
+    $ renpy.notify('Library\'s 8th Corridor')
 
     data_ep_0 "She went to a corridor with a sign \"8\" and went to the shelf to drag a book out"
 
@@ -89,6 +99,8 @@ label data_dialog_00001_00002:
     data_chr_00003_00003 "\"To Cast Library Kind Spell You Can Think Of The Rarity, Book, Class, Type, Name Of The Spell and Level Of The Spell\""
 
     data_chr_00004_00000_00001 "what.... okay then"
+
+    #Casting Sound
 
     data_ep_0 "She Tried To Cast The Spell Again"
 

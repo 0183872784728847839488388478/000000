@@ -1,19 +1,21 @@
 label data_dialog_00001_00003:
     play music none
 
-    "CHAPTER 3"
+    $ renpy.notify('CHAPTER 3')
 
-    play audio library_7
-    
-    $ renpy.notify('Fast Forward')
+    "Fast Forward To The Over Decorated Interior Mansion"
 
-     "Fast Forward To The Over Decorated Interior Mansion"
+    $ renpy.notify('Wilderness')
 
     data_ep_0 "Auriel Ready All Her Things And Went Running Thru The Forrest"
 
     data_ep_0 "On The Way She Test The Spell She Learned From The Library "
 
     data_ep_0 "She Fire a \[Fireball: 3\] Spell On A Slime "
+
+    #Fireball Sound
+
+    #Fireball Impacted
 
     data_chr_00004_00000_00001 "Oh wow it got oblibrated"
 
@@ -23,6 +25,8 @@ label data_dialog_00001_00003:
 
     data_ep_0 "she take a break before continuting"
 
+    #Magical Sound
+
     data_ep_0 "while taking a break she hears a mysterious sound similar to the sounds in the library and a light flashed between the trees"
 
     data_ep_0 "she saw a group of 7 girls in a foreign clothes (Uniforms?) "
@@ -31,7 +35,11 @@ label data_dialog_00001_00003:
 
     play music none
     
-    data_ep_pov_swap ""
+    show noimg
+    
+    with dissolve
+    
+    $ renpy.notify('POV: ???')
 
     data_chr_00005_00001 "<Wait, Where Are We?>"
 
@@ -89,7 +97,9 @@ label data_dialog_00001_00003:
 
     data_ep_0 "The Began Walking Thru The Forest"
 
-    data_ep_forward "Several Minutes Later Of Silence"
+    #Footsteps
+
+    "Several Minutes Later Of Silence"
 
     data_chr_00006_00007 "<Are we just going circle for the passed minute?>"
 
@@ -101,11 +111,13 @@ label data_dialog_00001_00003:
 
     data_chr "~Fufu"
 
+    #Miku Fufu Sound
+
     data_chr_00006_00005 "<Elle Am Scared>"
 
     data_chr_00006_00008 "<Who Are You? Come Out Come Out Whoever You Are>"
 
-    data_ep_backward "Back To Auriel's Pov"
+    $ renpy.notify('POV: Auriel\'s Pov')
 
     data_chr_00004_00000_00001 "Are they Morons?"
 
@@ -121,7 +133,7 @@ label data_dialog_00001_00003:
 
     data_ep_0 "she forgoten about her school"
 
-    data_ep_forward "Group's Prespective"
+    $ renpy.notify('Group\'s Prespective')
 
     data_ep_0 "they heard a branch of a tree rattling"
 
@@ -129,7 +141,11 @@ label data_dialog_00001_00003:
 
     data_ep_0 "they saw a girl falling off a tree "
 
+    #Tree Rattling
+
     data_ep_0 "and start running"
+
+    #Running Sound
 
     data_ep_0 ""
 
@@ -142,6 +158,8 @@ label data_dialog_00001_00003:
     data_chr_00006_00007 "<Wait Who Are You>"
 
     data_ep_0 "They Start Running After The Mysterious Girl"
+
+    #Running Sound
 
     data_ep_forward "Few Minutes Later"
 
@@ -157,7 +175,7 @@ label data_dialog_00001_00003:
 
     data_chr_00006_00003 "<let see>"
 
-    data_ep_backward "Auriel's Pov"
+    $ renpy.notify('POV: Auriel\'s Pov')
 
     data_chr_00004_00000_00001 "They saw me"
 
@@ -177,9 +195,9 @@ label data_dialog_00001_00003:
 
     data_chr_00004_00000_00001 "Time To Go Home"
 
-    data_ep_forward "Going Back To The Group"
+    $ renpy.notify('Going Back To The Group')
 
-    data_ep_0 "the group arrived at the house"
+    $ renpy.notify('???\'s Mansion')
 
     data_chr_00006_00008 "<Wow this is big>"
 
@@ -187,9 +205,11 @@ label data_dialog_00001_00003:
 
     data_ep_0 "<lets knock>"
 
-    data_ep_0 "*knock knock*"
+    #Knocking Door
 
     data_chr_00006_00007 "<This Might Be A Bad Idea>"
+
+    #Door Opened
 
     data_ep_0 "the door opened"
 

@@ -1,8 +1,10 @@
 label data_dialog_00001_00001:
     play music none
-    "CHAPTER 1"
+    $ renpy.notify('CHAPTER 1')
     
     data_ep_0 "12 Years has passed and she is now 15 years old"
+
+    $ renpy.notify('???')
 
     data_ep_0 "One night while returning to her bedroom to sleep"
 
@@ -16,13 +18,17 @@ label data_dialog_00001_00001:
 
     data_ep_0 "promise to make her father\'s promise come true at least"
 
+    #Footsteps
+
     data_ep_0 "Auriel arrived to her bedroom\'s door and she open it"
 
     #Door Opening
 
+    $ renpy.notify('Bedroom')
+
     #Door Close
 
-    data_ep_0 "her room have a Comfy bed\, cabinet\, a chandelier and a Door to nothing..."
+    data_ep_0 "Her room have a Comfy bed\, cabinet\, a chandelier and a Door to nothing..."
 
     #Surpise Auriel Here
 
@@ -30,17 +36,20 @@ label data_dialog_00001_00001:
 
     #Footstep Insert Here
 
-    data_ep_0 "she went on the front of the door and tried to open the door" 
+    data_ep_0 "She went on the front of the door and tried to open the door" 
 
-    data_ep_0 "but its so heavy that it cant even budge and gave up"
+    data_ep_0 "But its so heavy that it cant even budge and gave up"
 
-    data_ep_0 "she change to her sleeping outfit and went to bed.."
+    data_ep_0 "She change to her sleeping outfit and went to bed.."
 
-    $ renpy.notify('Fast Forward')
+    $ renpy.notify('The Next Day')
 
     "8 hours has passed and she woken up from her sleep"
 
     data_chr_00004_00000_00001 "*ahhh good morning from nightmares*"
+
+    # Yawning
+    $ renpy.notify('Bedroom')
 
     data_ep_0 "Auriel went to her cabinet to change to her usual dress and inspect the heavy door on the middle of the room"
 
@@ -64,11 +73,13 @@ label data_dialog_00001_00001:
 
     data_ep_0 "she left the mantion and went thru the wilderness to get in the academy"
 
+    $ renpy.notify('Wilderness')
+    
     data_ep_0 "on this world anyone with the age of 13 and above are called adults and all child restrictions are lift"
 
-    $ renpy.notify('Fast Forward')
-
     "after an hour and a half of walk and breaks she reach the academy"
+
+    $ renpy.notify(' Kingdom\'s Academy')
 
     data_ep_0 "the kingdom\'s academy is the largest academy in the continent that even Royalty\, Nobles\, and Commoners from different kingdom are all together in a single academy because of its reputation"
 
@@ -82,6 +93,10 @@ label data_dialog_00001_00001:
 
     data_ep_0 "as the academy\'s bell started to ring Auriel went to a classrooms"
 
+    $ renpy.notify('Classroom')
+
+    #Chair Moving
+
     data_ep_0 "on the room there are 120 chairs"
 
     data_ep_0 "they are allowed to pick what chair they want"
@@ -89,6 +104,8 @@ label data_dialog_00001_00001:
     data_ep_0 "as per usual.. Cheating in any way will immediately kick you out and never be able to take the exam for a year"
 
     data_ep_0 "she pick the chair on the center-right from the door and wait for other participants to start the exam"
+
+    #Loud Footsteps
 
     data_ep_0 "a professor go to the front of the room to sign the start of the exam"
 
@@ -106,13 +123,19 @@ label data_dialog_00001_00001:
 
     data_ep_0 "she finish the exam 1 hour before the time limit and take a nap"
 
+    $ renpy.notify('Classroom')
+
     data_ep_0 "bell rang as the exam is about to close"
+
+    #Bell Rang
 
     data_ep_0 "Auriel woke up just as the professor about to announce something."
 
     data_ep_0 "Her eyes slowly adjusted to the bright lights of the room"
 
-    data_ep_0 "as she struggled to keep from yawning. She was exhausted after having taken the entrance exam"
+    data_ep_0 "as she struggled to keep from yawning."
+    
+    data_ep_0 "She was exhausted after having taken the entrance exam"
 
     data_ep_0 "which she\'d spent nearly all of her time preparing for. Despite her tiredness"
 

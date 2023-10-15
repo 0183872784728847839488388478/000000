@@ -1,5 +1,6 @@
 label data_dialog_00001_00000:
     play music none
+    $ renpy.notify('???')
     data_chr "Umm what are those thing dad?" 
 
     data_ep_0 "A cute girl questioning the webs in the sky"
