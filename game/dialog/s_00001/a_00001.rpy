@@ -13,8 +13,8 @@ label data_dialog_00001_00001:
     data_ep_0 "she grabs a key from her breast pocket"
 
     #Keys Ringing
-
-    data_chr_00004_00000_00001 "One day we will go there and spend sometime"
+    define data_chr_00005_00000_00000 = data_chr_00005_00001_00001
+    data_chr_00005_00000_00000 "One day we will go there and spend sometime"
 
     data_ep_0 "promise to make her father\'s promise come true at least"
 
@@ -49,7 +49,7 @@ label data_dialog_00001_00001:
     play sound data_sound_morning
     "8 hours has passed and she woken up from her sleep"
 
-    data_chr_00004_00000_00001 "*ahhh good morning from nightmares*"
+    data_chr_00005_00000_00000 "*ahhh good morning from nightmares*"
     # Yawning
     $ renpy.notify('Bedroom')
     
@@ -63,7 +63,7 @@ label data_dialog_00001_00001:
 
     data_ep_0 "there are 8 symbols and 1 that are glowing"
 
-    data_chr_00004_00000_00001 "*I have no clue what are these...oh no am late for entrance exam*"
+    data_chr_00005_00000_00000 "*I have no clue what are these...oh no am late for entrance exam*"
 
     play sound data_sound_door_open volume 1.0
 
@@ -106,7 +106,7 @@ label data_dialog_00001_00001:
 
     data_ep_0 "this is her first time going into the academy"
     
-    data_chr_00004_00000_00001 "{i}It So Big!{/i}" #Someone surely gonna get this out of context
+    data_chr_00005_00000_00000 "{i}It So Big!{/i}" #Someone surely gonna get this out of context
 
     data_ep_0 "she was shock because of the size of the entrance that she froze for while"
     

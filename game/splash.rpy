@@ -10,14 +10,14 @@ init:
 
 label splashscreen:
     "In order to open the door you need to know the password."
-    $ user_pass = renpy.input("Enter the password", "?????", length = 7)
+    $ user_pass = renpy.input("Enter the password", "", length = 7)
 
     if user_pass == demo_pass:
-        data_chr_00002 "Correct :D"
+        data_chr_00002 "Welcome Tester"
         $ data_var_00000 = "demo"
 
     elif user_pass == dev_pass:
-        data_chr_00002 "Correct :D"
+        data_chr_00002 "Welcome Developer"
         $ data_var_00000 = "dev"
     else:
         $ renpy.quit()

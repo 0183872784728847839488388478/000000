@@ -7,23 +7,23 @@ label data_dialog_00001_00004:
 
     data_ep_0 "she open the front door and announce her arrival"
 
-    data_chr_00004_00000_00001 "I'm home"
+    data_chr_00005_00000_00000 "I'm home"
 
     data_ep_0 "she goes to a kitchen and open a big box that is so cold it can preserved food"
 
     data_ep_0 "she grabs some meat of an animal from the box and close it then she goes to a magical stove from the city and cooks the meat"
 
-    data_chr_00004_00000_00001 "good grief who are they? i dont want to approach them but they needing some help "
+    data_chr_00005_00000_00000 "good grief who are they? i dont want to approach them but they needing some help "
 
     data_ep_flashback "if you are wondering why then lets go back 13 years ago"
 
     data_chr_00003_00001 "Aureil we will living in a big mansion inside the vast forest"
 
-    data_chr_00004_00000 "really....i want to go there"
+    data_chr_00005_00000_00000 "really....i want to go there"
 
     data_chr_00003_00001 "sure but promise to me reveal it to anyone or it will be destroyed"
 
-    data_chr_00004_00000 "i promise"
+    data_chr_00005_00000_00000 "i promise"
 
     data_ep_future "going back to the future"
 
@@ -33,9 +33,9 @@ label data_dialog_00001_00004:
 
     data_ep_0 "suddenly the doorbell of the house rang"
 
-    data_chr_00004_00000_00001 "Huh? im living in the forest..."
+    data_chr_00005_00000_00000 "Huh? im living in the forest..."
 
-    data_chr_00004_00000_00001 "they probably from academy since i did not attend today"
+    data_chr_00005_00000_00000 "they probably from academy since i did not attend today"
 
     data_ep_0 "the academy restrict rules said that going absent without prior notice will given you bad points for your reputation as a punishment, having bad reputation can get you drop off the academy for a year. a school professor may home visit the student to check if the student in question has a emergency or a vaild reason to be absent and revoke the punishment"
 
@@ -43,11 +43,11 @@ label data_dialog_00001_00004:
 
     #Door Open Sound
 
-    data_chr_00004_00000_00001 "Hello?"
+    data_chr_00005_00000_00000 "Hello?"
 
     data_ep_0 "to her surprise its the group of girls earlier"
 
-    data_chr_00004_00000_00001 "Who are you? \[Fireball\]"
+    data_chr_00005_00000_00000 "Who are you? \[Fireball\]"
 
     data_ep_0 "she raise her hand and summon a fireball on her hand"
 
@@ -97,13 +97,13 @@ label data_dialog_00001_00004:
 
     data_chr "<Ouwha>"
 
-    data_chr_00006_00004 "<Its that the girl we saw earlier>"
+    data_chr_00005_00004_00000 "<Its that the girl we saw earlier>"
 
-    data_chr_00006_00007 "<Hideee>"
+    data_chr_00005_00007_00000 "<Hideee>"
 
     data_ep_same "To Auriel's POV"
 
-    data_chr_00004_00000_00001 "Why are they here"
+    data_chr_00005_00000_00000 "Why are they here"
 
     data_ep_0 "Suddenly a Paper Fallen From The Roof This Time The Color Is Red"
 
@@ -111,27 +111,26 @@ label data_dialog_00001_00004:
 
     data_chr_00003_00003 "Can you instead help their problem? also use \[Translation\] to make them understand you"
 
-    data_chr_00004_00000_00001 "okay.......you said so"
+    data_chr_00005_00000_00000 "okay.......you said so"
 
     data_ep_0 "and then she cancel her fireball"
 
     data_ep_0 "she cast \[Translation\] and Target The Group"
 
-    data_chr_00006_00008 "What The Hell Was That"
+    data_chr_00005_00008_00000 "What The Hell Was That"
 
-    data_chr_00004_00000_00001 "Can You All Show Yourself Now?"
+    data_chr_00005_00000_00000 "Can You All Show Yourself Now?"
 
     data_ep_0 "All 8 student show their heads in fear and then"
 
-    data_chr_00004_00000_00001 "okay then can you all 8 come inside and tell me what happened?"
-
-    data_chr_00006_00004 "This is so suspicious but we cannot go anywhere anyway"
+    data_chr_00005_00000_00000 "okay then can you all 8 come inside and tell me what happened?"
+    data_chr_00005_00004_00000 "This is so suspicious but we cannot go anywhere anyway"
 
     data_ep_0 "Elle whispers to the group"
 
-    data_chr_00006_00008 "She might kidnap us but yea"
+    data_chr_00005_00008_00000 "She might kidnap us but yea"
 
-    data_chr_00004_00000_00001 "lets go?"
+    data_chr_00005_00000_00000 "lets go?"
 
     data_ep_0 "Auriel suddenly behind them and pull Pepper to the mansion"
 
@@ -139,21 +138,21 @@ label data_dialog_00001_00004:
 
     data_ep_0 "They went to the living room where it contains 6 long sofas and a big table on the middle"
 
-    data_chr_00004_00000_00001 "Go a head take a sit"
+    data_chr_00005_00000_00000 "Go a head take a sit"
 
     data_ep_0 "The Group Slowly Take A Sit"
 
-    data_chr_00004_00000_00001 "im gonna go and cook something give me a minute"
+    data_chr_00005_00000_00000 "im gonna go and cook something give me a minute"
 
     data_ep_0 "Auriel Left And The Scared Group Started To Talk"
 
-    data_chr_00006_00006 "Why is she now helping us?"
+    data_chr_00005_00006_00000 "Why is she now helping us?"
 
-    data_chr_00006_00007 "this is going weirder and weirder Christine"
+    data_chr_00005_00007_00000 "this is going weirder and weirder Christine"
 
-    data_chr_00006_00003 "If she did something to us marcus"
+    data_chr_00005_00003_00000 "If she did something to us marcus"
 
-    data_chr_00006_00008 "wha- why me?  Marcus"
+    data_chr_00005_00008_00000 "wha- why me?  Marcus"
 
     data_ep_0 "While They Talking To Each other"
 
@@ -165,13 +164,13 @@ label data_dialog_00001_00004:
 
     data_chr_00003_00003 "As You Can See You Got Teleported Out From Your World To This World"
 
-    data_chr_00006_00005 "What? We Really Got Isekai'ed"
+    data_chr_00005_00005_00000 "What? We Really Got Isekai'ed"
 
     data_chr_00003_00003 "This World Contains Magical Things That Are Not In Your World"
 
     data_chr_00003_00003 "Oh I Did Not Given You All Some \'OP\' Magic To Begin With"
 
-    data_chr_00006_00008 "You What?"
+    data_chr_00005_00008_00000 "You What?"
 
     data_chr_00003_00003 "Because That Would Be Boring So For Now"
 
@@ -181,12 +180,12 @@ label data_dialog_00001_00004:
 
     data_ep_0 "Suddenly The Color Of The Paper Turned Gray"
 
-    data_chr_00006_00007 "What Did You Do"
+    data_chr_00005_00007_00000 "What Did You Do"
 
-    data_chr_00006_00008 "I Did Not Do Anything"
+    data_chr_00005_00008_00000 "I Did Not Do Anything"
 
     data_ep_0 "While They In Shambles Auriel Gets Back A Trolley Full Of Luxurious Food"
 
-    data_chr_00004_00000_00001 "Hello Everyone?....what happened"
+    data_chr_00005_00000_00000 "Hello Everyone?....what happened"
 
     return

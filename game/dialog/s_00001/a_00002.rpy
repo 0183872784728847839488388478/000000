@@ -8,7 +8,7 @@ label data_dialog_00001_00002:
 
     data_ep_0 "It now decorated with luxurious furniture"
 
-    data_chr_00004_00000_00001 "How The Hell This Happened?"
+    data_chr_00005_00000_00000 "How The Hell This Happened?"
 
     data_ep_0 "The Door In the middle of the room is suddenly glowing blue"
 
@@ -54,7 +54,7 @@ label data_dialog_00001_00002:
 
     data_ep_0 "Auriel was still staring at the note, trying to process the information."
 
-    data_chr_00004_00000_00001 "I passed the entrance exam?"
+    data_chr_00005_00000_00000 "I passed the entrance exam?"
      
     data_ep_0 "she repeated to herself."
     
@@ -68,7 +68,7 @@ label data_dialog_00001_00002:
 
     data_ep_0 "with certain number indicating to it and hears the song changing based on where she walking thru"
 
-    data_chr_00004_00000_00001 "8?"
+    data_chr_00005_00000_00000 "8?"
 
     $ renpy.notify('Library\'s 8th Corridor')
 
@@ -84,13 +84,13 @@ label data_dialog_00001_00002:
 
     data_chr_00003_00004 "\[Thunder\]: A Class Legendary 8 Spell That Can Strike A Lightning On The Target Point"
 
-    data_chr_00004_00000_00001 "hmm what? is this a spell? Let's try this. \[Thunder\]"
+    data_chr_00005_00000_00000 "hmm what? is this a spell? Let's try this. \[Thunder\]"
 
     data_ep_0 "She Tried To Cast It But It Did Not Work"
 
     data_ep_0 "Suddenly A Piece of paper dropped from the ceiling"
 
-    data_chr_00004_00000_00001 "wheres that paper come from?"
+    data_chr_00005_00000_00000 "wheres that paper come from?"
 
     data_ep_0 "looks up and grab the paper"
 
@@ -98,7 +98,7 @@ label data_dialog_00001_00002:
 
     data_chr_00003_00003 "\"To Cast Library Kind Spell You Can Think Of The Rarity, Book, Class, Type, Name Of The Spell and Level Of The Spell\""
 
-    data_chr_00004_00000_00001 "what.... okay then"
+    data_chr_00005_00000_00000 "what.... okay then"
 
     #Casting Sound
 
@@ -106,7 +106,7 @@ label data_dialog_00001_00002:
 
     stop music
     
-    data_chr_00004_00000_00001 "\[Legendary: Saint: Light: Lightning: 6\]"
+    data_chr_00005_00000_00000 "\[Legendary: Saint: Light: Lightning: 6\]"
     
     play sound data_sound_lightning
     
@@ -132,11 +132,11 @@ label data_dialog_00001_00002:
 
     data_chr_00003_00003 "\"When Casting A Spell The Chanting Does Not Matter it's about how you define that spell you want\""
 
-    data_chr_00004_00000_00001 "good grief I thought I destroy the library"
+    data_chr_00005_00000_00000 "good grief I thought I destroy the library"
 
     data_ep_0 "She felt relieved after not getting a scolding paper"
 
-    data_chr_00004_00000_00001 "every book here is interesting....time to read every book..."
+    data_chr_00005_00000_00000 "every book here is interesting....time to read every book..."
 
     $ renpy.notify('Fast Forward')
 
@@ -152,7 +152,7 @@ label data_dialog_00001_00002:
 
     data_ep_0 "It's 7 o'Clock"
 
-    data_chr_00004_00000_00001 "Good Grief I'm Gonna Be Late"
+    data_chr_00005_00000_00000 "Good Grief I'm Gonna Be Late"
 
     return
 
