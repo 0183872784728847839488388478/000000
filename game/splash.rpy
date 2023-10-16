@@ -20,6 +20,7 @@ label splashscreen:
         data_chr_00002 "Welcome Developer"
         $ data_var_00000 = "dev"
     else:
+        data_chr_00002 "You Really Are An Idiot Trying To Do Stuff"
         $ renpy.quit()
 
 
