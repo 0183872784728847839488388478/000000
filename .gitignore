@@ -11,3 +11,5 @@
 game/saves/persistent
 *.rpyc
 *.rpyc
+*.save
+*.rpyb
