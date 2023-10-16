@@ -1,26 +1,28 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/script.rpy", line 73, in script call
-    call data_dialog_00001_00003
-  File "game/dialog/s_00001/a_00003.rpy", line 186, in script
-    data_chr_00006_00000 "<we are currently in emergency so i think its fine>"
-Exception: Sayer 'data_chr_00006_00000' is not defined.
+  File "game/dialog/s_00001/a_00000.rpy", line 8, in script
+    define data_chr_00005_00000_00000 = data_chr_00005_00000_00002
+  File "game/dialog/s_00001/a_00000.rpy", line 8, in <module>
+    define data_chr_00005_00000_00000 = data_chr_00005_00000_00002
+NameError: name 'data_chr_00005_00000_00002' is not defined
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 73, in script call
-    call data_dialog_00001_00003
-  File "game/dialog/s_00001/a_00003.rpy", line 186, in script
-    data_chr_00006_00000 "<we are currently in emergency so i think its fine>"
-  File "C:\Users\a9292\Documents\renpy-8.1.3-sdk\renpy\ast.py", line 890, in execute
-    who = eval_who(self.who, self.who_fast)
-  File "C:\Users\a9292\Documents\renpy-8.1.3-sdk\renpy\ast.py", line 783, in eval_who
-    raise Exception("Sayer '%s' is not defined." % who)
-Exception: Sayer 'data_chr_00006_00000' is not defined.
+  File "game/dialog/s_00001/a_00000.rpy", line 8, in script
+    define data_chr_00005_00000_00000 = data_chr_00005_00000_00002
+  File "C:\Users\a9292\Documents\renpy-8.1.3-sdk\renpy\ast.py", line 2508, in execute
+    self.set()
+  File "C:\Users\a9292\Documents\renpy-8.1.3-sdk\renpy\ast.py", line 2522, in set
+    value = renpy.python.py_eval_bytecode(self.code.bytecode)
+  File "C:\Users\a9292\Documents\renpy-8.1.3-sdk\renpy\python.py", line 1146, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/dialog/s_00001/a_00000.rpy", line 8, in <module>
+    define data_chr_00005_00000_00000 = data_chr_00005_00000_00002
+NameError: name 'data_chr_00005_00000_00002' is not defined
 
 Windows-10-10.0.19041 AMD64
 Ren'Py 8.1.3.23091805
 Skythread 1.0
-Mon Oct 16 14:02:33 2023
+Mon Oct 16 19:07:00 2023

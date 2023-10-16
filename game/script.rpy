@@ -4,16 +4,15 @@
 
 
 label start:
-    
+    call data_dialog_chr_00000_00000
 
-    
     data_chr_00002 "Checking what version is this"
 
-    call function_betweenthedialog from _call_function_betweenthedialog 
+    call function_betweenthedialog 
 
     data_chr_00002 "Detected: {b}[data_var_00000]{/b} mode"
 
-    call function_betweenthedialog from _call_function_betweenthedialog_1 
+    call function_betweenthedialog 
 
     if data_var_00000 == "dev":
         $ player_name = "Droid"
@@ -38,7 +37,7 @@ label start:
     while not player_name:
         $ player_name = renpy.input("Your Name?")
         $ player_name = player_name.strip()
-    call function_betweenthedialog from _call_function_betweenthedialog_2 
+    call function_betweenthedialog 
     
     jump real_start
 
@@ -47,38 +46,43 @@ label start:
 label real_start:
 
     menu:
+        data_chr_00002 "Pick Your Story"
         "Story 0":
-            call function_betweenthedialog from _call_function_betweenthedialog_3 
-            call data_dialog_00000_00001 from _call_data_dialog_00000_00001 
+            call function_betweenthedialog 
+            call data_dialog_00000_00001 
 
         "Story 1":
-            
             if data_points_story_1_0000 == 0:
-                call function_betweenthedialog from _call_function_betweenthedialog_4 
-                call data_dialog_00001_00000 from _call_data_dialog_00001_00000 
+                call function_betweenthedialog 
+                call data_dialog_00001_00000 
                 $ data_points_story_1_0000 += 1
 
             if data_points_story_1_0000 == 1:
-                call function_betweenthedialog from _call_function_betweenthedialog_5 
-                call data_dialog_00001_00001 from _call_data_dialog_00001_00001 
+                call function_betweenthedialog 
+                call data_dialog_00001_00001 
                 $ data_points_story_1_0000 += 1
 
             if data_points_story_1_0000 == 2:
-                call function_betweenthedialog from _call_function_betweenthedialog_6 
-                call data_dialog_00001_00002 from _call_data_dialog_00001_00002 
+                call function_betweenthedialog 
+                call data_dialog_00001_00002 
                 $ data_points_story_1_0000 += 1
 
             if data_points_story_1_0000 == 3:
-                call function_betweenthedialog from _call_function_betweenthedialog_7 
-                call data_dialog_00001_00003 from _call_data_dialog_00001_00003 
+                call function_betweenthedialog 
+                call data_dialog_00001_00003 
                 $ data_points_story_1_0000 += 1
 
             if data_points_story_1_0000 == 4:
-                call function_betweenthedialog from _call_function_betweenthedialog_8 
-                call data_dialog_00001_00004 from _call_data_dialog_00001_00004 
+                call function_betweenthedialog 
+                call data_dialog_00001_00004 
                 $ data_points_story_1_0000 += 1
             data_chr_00002 "To Be Continued"
-
+    menu:
+        data_chr_00002 "Return?"
+        "Yes!":
+            jump real_start
+        "No!":
+            pass
     jump end
 
 
@@ -87,18 +91,18 @@ label dev_menu:
     data_chr_00002 "Hello, Where Do You Wanna Warp?"
     menu:
         "Start?":
-            call data_dialog_00001_00000 from _call_data_dialog_00001_00000_1 
+            call data_dialog_00001_00000 
         "EP 1":
-            call data_dialog_00001_00001 from _call_data_dialog_00001_00001_1 
+            call data_dialog_00001_00001 
         "EP 2":
-            call data_dialog_00001_00002 from _call_data_dialog_00001_00002_1 
+            call data_dialog_00001_00002 
         "EP 3":
-            call data_dialog_00001_00003 from _call_data_dialog_00001_00003_1 
+            call data_dialog_00001_00003 
         "EP 4":
-            call data_dialog_00001_00004 from _call_data_dialog_00001_00004_1 
+            call data_dialog_00001_00004 
         "End":
             jump end
-    call function_betweenthedialog from _call_function_betweenthedialog_9 
+    call function_betweenthedialog 
     jump dev_menu
 
 

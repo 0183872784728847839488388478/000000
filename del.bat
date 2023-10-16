@@ -1,2 +1,3 @@
 del /S *.rpyc
-del /S *.sace
+del /S *.save
+del /S *.bak

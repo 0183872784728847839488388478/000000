@@ -1,7 +1,8 @@
 label data_dialog_00001_00000:
-    
+    call data_dialog_chr_00001_00000
     play music data_music_library_1 loop
     $ renpy.notify('???')
+
     data_chr "Umm what are those thing dad?" 
     
     define data_chr_00005_00000_00000 = data_chr_00005_00000_00002

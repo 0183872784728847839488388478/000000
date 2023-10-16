@@ -1,7 +1,9 @@
 label data_dialog_00001_00003:
 
-
+    
     $ renpy.notify('CHAPTER 3')
+
+    call data_dialog_chr_00001_00003
 
     "Fast Forward To The Over Decorated Interior Mansion"
 

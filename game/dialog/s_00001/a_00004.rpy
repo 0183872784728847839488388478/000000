@@ -1,5 +1,6 @@
 label data_dialog_00001_00004:
-
+    
+    call data_dialog_chr_00001_00004
 
     "Chapter 4"
 

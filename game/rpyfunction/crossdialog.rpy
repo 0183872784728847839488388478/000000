@@ -7,20 +7,27 @@ init python:
 
 
 label function_betweenthedialog:
+    image loading_0 = "gui/loading/1.png"
+    image loading_1 = "gui/loading/2.png"
+    image loading_2 = "gui/loading/3.png"
+    image loading_3 = "gui/loading/4.png"
+    image blank = "gui/noi.png"
+
     stop music
     stop audio
     stop sound
     
     
-    $ looptimes = random_number(3,8)
-
-    $ renpy.notify('LOADING')
+    $ looptimes = random_number(3,5)
+    scene loading_0
+    $ renpy.notify('LOADING...')
     while looptimes > 0:
-        $ renpy.pause(0.5)
-        $ renpy.notify('LOADING.')
-        $ renpy.pause(0.5)
-        $ renpy.notify('LOADING..')
-        $ renpy.pause(0.5)
-        $ renpy.notify('LOADING...')
+        $ renpy.pause(0.3)
+        scene loading_1
+        $ renpy.pause(0.3)
+        scene loading_2
+        pause 0.3
+        scene loading_3
         $ looptimes -= 1
+    scene blank
     $ renpy.notify('')

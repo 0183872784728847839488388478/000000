@@ -9,6 +9,7 @@ init:
             return [ i for i, v in enumerate(values) if v == max(values) ]
 
 label splashscreen:
+    call data_dialog_chr_00000_00000
     "In order to open the door you need to know the password."
     $ user_pass = renpy.input("Enter the password", "", length = 7)
 
