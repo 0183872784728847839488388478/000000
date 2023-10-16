@@ -14,3 +14,7 @@ game/saves/persistent
 *.save
 *.rpyb
 *.bak
+*.rpyb
+game/saves/persistent
+*.rpymc
+log.txt
