@@ -7,32 +7,31 @@ label start:
     
 
     
-    data_chr_00002 "Checking what version is this"
+    data_chr_00002 "Checking what version is this{nw}"
 
     call function_betweenthedialog
 
-    data_chr_00002 "Detected: {b}[data_var_00000]{/b} mode"
+    data_chr_00002 "Detected: {b}[data_var_00000]{/b} mode{nw}"
 
     call function_betweenthedialog
 
     if data_var_00000 == "dev":
         $ player_name = "Droid"
-
-        data_chr_00002 "[player_name] Jumping To Dev Menu?"
         menu:
+            data_chr_00002 "[player_name]: Jumping To Dev Menu?"
             "Yes!":
                 jump dev_menu
             "No!":
                 pass
 
     elif data_var_00000 == "demo":
-        data_chr_00002 "Demo Mode Enabled"
-        data_chr_00002 "Starting the demo"
+        data_chr_00002 "Demo Mode Enabled{nw}"
+        data_chr_00002 "Starting the demo{nw}"
         pass
 
     else:
         
-        data_chr_00002 "Err: Devmode is disabled"
+        data_chr_00002 "Err: Devmode is disabled{nw}"
         jump end
 
     while not player_name:

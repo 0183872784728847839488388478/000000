@@ -7,7 +7,7 @@ init python:
 
 
 label function_betweenthedialog:
-    $ _history_list.pop()
+    $ _history_list = []
     image loading_0 = "gui/loading/1.png"
     image loading_1 = "gui/loading/2.png"
     image loading_2 = "gui/loading/3.png"
@@ -23,15 +23,15 @@ label function_betweenthedialog:
     scene loading_0
     $ renpy.notify('LOADING...')
     while looptimes > 0:
-        $ renpy.pause(0.3)
+        pause 0.2
         scene loading_1
         
-        $ renpy.pause(0.3)
+        pause 0.2
         scene loading_2
-        pause 0.3
+        pause 0.2
         scene loading_3
         $ looptimes -= 1
-    scene blank
+    scene blank at center
     $ renpy.notify('')
-    $ _history_list.pop()
+    $ _history_list = []
 

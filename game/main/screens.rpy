@@ -323,11 +323,8 @@ screen navigation():
 #           ## Help isn't necessary or relevant to mobile devices.
 #           textbutton _("Help") action ShowMenu("help")
 # 
-#       if renpy.variant("pc"):
-# 
-#           ## The quit button is banned on iOS and unnecessary on Android and
-#           ## Web.
-#           textbutton _("Quit") action Quit(confirm=not main_menu)
+        if renpy.variant("pc"):
+            textbutton _("Quit") action Quit(confirm=not main_menu)
 
 
 style navigation_button is gui_button

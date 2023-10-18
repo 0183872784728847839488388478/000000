@@ -18,3 +18,8 @@ game/saves/persistent
 game/saves/persistent
 *.rpymc
 log.txt
+*.save
+*.rpyb
+*.json
+game/saves/persistent
+log.txt
