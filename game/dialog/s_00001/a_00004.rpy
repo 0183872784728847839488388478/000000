@@ -195,4 +195,27 @@ label data_dialog_00001_00004:
 
     data_chr_00005_00000_00000 "Hello Everyone?....what happened"
 
+    data_chr_00005_00004_00000 "I really dont know"
+
+    data_ep_0 "Elle Answered"
+
+    data_ep_0 "Auriel Look Around And Find A Gray Paper"
+
+    data_ep_0 "She Grab It And Read The Paper"
+
+    data_chr_00005_00000_00000 "Oh is it about that paper?"
+
+    data_chr_00005_00008_00000 "Do you know about the paper?"
+
+    data_ep_0 "Marcus Asked"
+
+    data_chr_00005_00000_00000 "well....kinda"
+
+    data_chr_00005_00007_00001 "What do you mean by that?"
+
+    data_chr_00005_00000_00000 "well....it gave me a whole library full of books related to everything"
+
+    "Everyone" "WHAT?"
+
+    
     return

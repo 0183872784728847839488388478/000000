@@ -59,12 +59,11 @@ label data_dialog_00001_00003:
     $ data_chr_00005_00007_00000 = data_chr_00005_00007_00002
     data_chr_00005_00007_00000 "<this is getting weirder and weirder>"
 
-    
+    #Someone Fell Sound
+
     data_ep_0 "Suddenly A Boy Just Magically Fall Off From The Sky"
     $ data_chr_00005_00008_00000 = data_chr_00005_00008_00002
     
-    #Someone Fell Sound
-
     data_chr_00005_00008_00000 "<Agh, that's a litteral fall..>"
 
     data_chr_00005_00008_00000 "<How the hell did I survived that>"
