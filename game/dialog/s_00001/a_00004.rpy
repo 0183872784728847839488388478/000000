@@ -2,7 +2,7 @@ label data_dialog_00001_00004:
     
     call data_dialog_chr_00001_00004
 
-    "Chapter 4"
+    $ renpy.notify('Chapter 4')
 
     data_ep_fast_backward "Going Back To Aureil Pov"
 
@@ -38,7 +38,11 @@ label data_dialog_00001_00004:
 
     data_chr_00005_00000_00000 "they probably from academy since i did not attend today"
 
-    data_ep_0 "the academy restrict rules said that going absent without prior notice will given you bad points for your reputation as a punishment, having bad reputation can get you drop off the academy for a year. a school professor may home visit the student to check if the student in question has a emergency or a vaild reason to be absent and revoke the punishment"
+    data_ep_0 "the academy restrict rules said that going absent without prior notice will given you bad points for your reputation as a punishment"
+
+    data_ep_0 "having bad reputation can get you drop off the academy for a year."
+
+    data_ep_0 "a school professor may home visit the student to check if the student in question has a emergency or a vaild reason to be absent and revoke the punishment"
 
     data_ep_0 "she goes to the door and open it"
 
@@ -52,7 +56,9 @@ label data_dialog_00001_00004:
 
     data_ep_0 "she raise her hand and summon a fireball on her hand"
 
-    data_ep_same "Meanwhile Somewhere In the Sky"
+    $ renpy.notify('Meanwhile Somewhere In the Sky')
+
+    pause 2.0
 
     data_chr_00007_00001 "(Your Highness, A Powerful Magic Has Been Detected On The Forest Of Calamity)"
 
@@ -68,7 +74,7 @@ label data_dialog_00001_00004:
 
     data_ep_0 "and decided to put it in his ears"
 
-    data_ep_same "Meanwhile Somewhere In ?????"
+    $ renpy.notify('Somewhere In ?????') 
 
     data_chr "(Hello)"
 
@@ -76,7 +82,7 @@ label data_dialog_00001_00004:
 
     data_chr_00007_00000 "(a monster trying to cast a magic spell and died to mana excaustion, are you making overpowered monster?)"
 
-    data_chr "(Hehe, no you misunderstood what happended) ???"
+    data_chr "(Hehe, no you misunderstood what happended)"
 
     data_chr_00007_00000 "(what? can you tell me what happened)"
 
@@ -102,7 +108,7 @@ label data_dialog_00001_00004:
 
     data_chr_00005_00007_00000 "<Hideee>"
 
-    data_ep_same "To Auriel's POV"
+    $ renpy.notify('Auriel\'s POV')
 
     data_chr_00005_00000_00000 "Why are they here"
 

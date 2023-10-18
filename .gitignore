@@ -23,3 +23,5 @@ log.txt
 *.json
 game/saves/persistent
 log.txt
+*.save
+game/saves/persistent

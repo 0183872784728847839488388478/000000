@@ -25,13 +25,12 @@ label function_betweenthedialog:
     while looptimes > 0:
         pause 0.2
         scene loading_1
-        
         pause 0.2
         scene loading_2
         pause 0.2
         scene loading_3
         $ looptimes -= 1
-    scene blank at center
+    scene blank
     $ renpy.notify('')
     $ _history_list = []
 

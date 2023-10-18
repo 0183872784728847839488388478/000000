@@ -1,21 +1,21 @@
-Wed Oct 18 17:30:02 2023
+Wed Oct 18 17:54:43 2023
 Windows-10-10.0.22621
 Ren'Py 8.1.3.23091805
  
 
 Bootstrap to the start of init.init. took 0.03s
 Early init. took 0.00s
-Loader init. took 0.02s
-Loading error handling. took 0.04s
-Loading script. took 0.43s
-Loading save slot metadata. took 0.04s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.09s
+Loading save slot metadata. took 0.03s
 Loading persistent. took 0.00s
-Running init code. took 0.10s
+Running init code. took 0.04s
 Loading analysis data. took 0.01s
 Analyze and compile ATL. took 0.00s
 Reloading save slot metadata. took 0.03s
 Index archives took 0.00s
-Dump and make backups. took 0.05s
+Dump and make backups. took 0.04s
 Cleaning cache. took 0.00s
 Making clean stores. took 0.00s
 Initial gc. took 0.02s
@@ -24,17 +24,535 @@ nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object. took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.03s
+Init translation took 0.04s
 Build styles took 0.00s
-Load screen analysis took 0.03s
+Load screen analysis took 0.02s
 Analyze screens took 0.00s
 Save screen analysis took 0.00s
-Prepare screens took 0.09s
+Prepare screens took 0.06s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.00s
 Running _start took 0.00s
 Performance test:
+Interface start. took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon RX 5600 XT'
+Version: b'4.6.0 Compatibility Profile Context 23.7.2.230718'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 104.03s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.09s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.06s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.04s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon RX 5600 XT'
+Version: b'4.6.0 Compatibility Profile Context 23.7.2.230718'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 145.11s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.10s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.06s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon RX 5600 XT'
+Version: b'4.6.0 Compatibility Profile Context 23.7.2.230718'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 871.36s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.14s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.07s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Vanesa\\AppData\\Roaming/RenPy/backups\\000000':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.06s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon RX 5600 XT'
+Version: b'4.6.0 Compatibility Profile Context 23.7.2.230718'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 878.75s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.10s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.06s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.04s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon RX 5600 XT'
+Version: b'4.6.0 Compatibility Profile Context 23.7.2.230718'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 929.03s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.01s
+Loading script. took 0.12s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.06s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Vanesa\\AppData\\Roaming/RenPy/backups\\000000':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon RX 5600 XT'
+Version: b'4.6.0 Compatibility Profile Context 23.7.2.230718'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 945.87s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.11s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.06s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Vanesa\\AppData\\Roaming/RenPy/backups\\000000':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon RX 5600 XT'
+Version: b'4.6.0 Compatibility Profile Context 23.7.2.230718'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1015.48s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.12s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+
+File "game/dialog/s_00001/a_00004.rpy", line 109: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    $ renpy.notify('To Auriel\'s POV')
+    ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
 Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon RX 5600 XT'
+Version: b'4.6.0 Compatibility Profile Context 23.7.2.230718'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1050.21s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.01s
+Loading script. took 0.11s
+Loading save slot metadata. took 0.02s
+Loading persistent. took 0.00s
+Running init code. took 0.07s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Vanesa\\AppData\\Roaming/RenPy/backups\\000000':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon RX 5600 XT'
+Version: b'4.6.0 Compatibility Profile Context 23.7.2.230718'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1059.56s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.12s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.06s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Vanesa\\AppData\\Roaming/RenPy/backups\\000000':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon RX 5600 XT'
+Version: b'4.6.0 Compatibility Profile Context 23.7.2.230718'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1064.36s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.13s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.06s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Vanesa\\AppData\\Roaming/RenPy/backups\\000000':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon RX 5600 XT'
+Version: b'4.6.0 Compatibility Profile Context 23.7.2.230718'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1073.23s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.10s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.06s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Dump and make backups. took 0.04s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon RX 5600 XT'
+Version: b'4.6.0 Compatibility Profile Context 23.7.2.230718'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1111.34s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.01s
+Loading script. took 0.12s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.06s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Vanesa\\AppData\\Roaming/RenPy/backups\\000000':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.04s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
