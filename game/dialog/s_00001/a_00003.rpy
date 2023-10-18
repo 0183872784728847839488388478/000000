@@ -37,31 +37,31 @@ label data_dialog_00001_00003:
     
     $ renpy.notify('POV: ???')
 
-    define data_chr_00005_00001_00000 = data_chr_00005_00001_00002
+    $ data_chr_00005_00001_00000 = data_chr_00005_00001_00002
     data_chr_00005_00001_00000 "<Wait, Where Are We?>"
 
-    define data_chr_00005_00003_00000 = data_chr_00005_00003_00002
+    $ data_chr_00005_00003_00000 = data_chr_00005_00003_00002
     data_chr_00005_00003_00000 "<I Don't Know>"
 
-    define data_chr_00005_00002_00000 = data_chr_00005_00002_00002
+    $ data_chr_00005_00002_00000 = data_chr_00005_00002_00002
     data_chr_00005_00002_00000 "<We were in the campus's hallway>"
 
     
-    define data_chr_00005_00004_00000 = data_chr_00005_00004_00002
+    $ data_chr_00005_00004_00000 = data_chr_00005_00004_00002
     data_chr_00005_00004_00000 "<Axel, Stop Holding Me>"
 
-    define data_chr_00005_00005_00000 = data_chr_00005_00005_00001
+    $ data_chr_00005_00005_00000 = data_chr_00005_00005_00001
     data_chr_00005_00005_00000 "<I'm Scarred Okay>"
 
-    define data_chr_00005_00006_00000 = data_chr_00005_00006_00002
+    $ data_chr_00005_00006_00000 = data_chr_00005_00006_00002
     data_chr_00005_00006_00000 "<Well It Cant Be Help>"
 
-    define data_chr_00005_00007_00000 = data_chr_00005_00007_00002
+    $ data_chr_00005_00007_00000 = data_chr_00005_00007_00002
     data_chr_00005_00007_00000 "<this is getting weirder and weirder>"
 
     
     data_ep_0 "Suddenly A Boy Just Magically Fall Off From The Sky"
-    define data_chr_00005_00008_00000 = data_chr_00005_00008_00002
+    $ data_chr_00005_00008_00000 = data_chr_00005_00008_00002
     
     #Someone Fell Sound
 
@@ -71,12 +71,12 @@ label data_dialog_00001_00003:
 
     data_chr_00005_00004_00000 "<Marcus?, Why are you here?>"
 
-    define data_chr_00005_00008_00000 = data_chr_00005_00008_00001
+    $ data_chr_00005_00008_00000 = data_chr_00005_00008_00001
     data_chr_00005_00008_00000 "<Im in the classroom and then I just fallen off the floor then this happened>"
 
     data_chr_00005_00008_00000 "<what about you?, Ella Why Are You here?>"
 
-    define data_chr_00005_00004_00000 = data_chr_00005_00004_00001
+    $ data_chr_00005_00004_00000 = data_chr_00005_00004_00001
     data_chr_00005_00004_00000 "<We have the same thing happened>"
 
     data_chr_00005_00004_00000 "<but we just Teleported? Into this place>"
@@ -87,21 +87,21 @@ label data_dialog_00001_00003:
 
 
     data_chr_00005_00001_00000 "<Alice>"
-    define data_chr_00005_00001_00000 = data_chr_00005_00001_00001
+    $ data_chr_00005_00001_00000 = data_chr_00005_00001_00001
 
     data_chr_00005_00002_00000 "<Stephanie>"
-    define data_chr_00005_00002_00000 = data_chr_00005_00002_00001
+    $ data_chr_00005_00002_00000 = data_chr_00005_00002_00001
 
     data_chr_00005_00003_00000 "<Rose>"
-    define data_chr_00005_00003_00000 = data_chr_00005_00003_00001
+    $ data_chr_00005_00003_00000 = data_chr_00005_00003_00001
 
     data_chr_00005_00005_00000 "<Axel....>"
 
     data_chr_00005_00006_00000 "<Pepper>"
-    define data_chr_00005_00006_00000 = data_chr_00005_00002_00001
+    $ data_chr_00005_00006_00000 = data_chr_00005_00002_00001
 
     data_chr_00005_00007_00000 "<My Name Is Christine>"
-    define data_chr_00005_00007_00000 = data_chr_00005_00007_00001
+    $ data_chr_00005_00007_00000 = data_chr_00005_00007_00001
 
     data_chr_00005_00008_00000 "<Well My Name Is Marcus Nice To Meet You All>"
 

@@ -1,118 +1,13 @@
-define data_var_00000 = "dev"
+default data_var_00000 = "dev"
 
-
-
-
-define data_player_hp = "??"
-define data_player_maxhp = "??"
-define data_player_mp = "??"
-define data_player_maxmp = "??"
-define data_player_coins = "??"
-define data_player_angry = "??"
-define data_player_sadness = "??"
-define data_player_depression = "??"
-define data_player_likeness = "??"
-define data_player_repetation = "??"
-
-define data_chr_hp_00004_00000_00001 = "??"
-define data_chr_maxhp_00004_00000_00001 = "??"
-define data_chr_mp_00004_00000_00001 = "??"
-define data_chr_maxmp_00004_00000_00001 = "??"
-define data_chr_coins_00004_00000_00001 = "??"
-define data_chr_angry_00004_00000_00001 = "??"
-define data_chr_sadness_00004_00000_00001 = "??"
-define data_chr_depression_00004_00000_00001 = "??"
-define data_chr_likeness_00004_00000_00001 = "??"
-define data_chr_repetation_00004_00000_00001 = "??"
-
-define data_chr_hp_00006_00001 = "??"
-define data_chr_hp_00006_00002 = "??"
-define data_chr_hp_00006_00003 = "??"
-define data_chr_hp_00006_00004 = "??"
-define data_chr_hp_00006_00005 = "??"
-define data_chr_hp_00006_00006 = "??"
-define data_chr_hp_00006_00007 = "??"
-define data_chr_hp_00006_00008 = "??"
-
-define data_chr_maxphp_00006_00001 = "??"
-define data_chr_maxphp_00006_00002 = "??"
-define data_chr_maxphp_00006_00003 = "??"
-define data_chr_maxphp_00006_00004 = "??"
-define data_chr_maxphp_00006_00005 = "??"
-define data_chr_maxphp_00006_00006 = "??"
-define data_chr_maxphp_00006_00007 = "??"
-define data_chr_maxphp_00006_00008 = "??"
-
-define data_chr_mp_00006_00001 = "??"
-define data_chr_mp_00006_00002 = "??"
-define data_chr_mp_00006_00003 = "??"
-define data_chr_mp_00006_00004 = "??"
-define data_chr_mp_00006_00005 = "??"
-define data_chr_mp_00006_00006 = "??"
-define data_chr_mp_00006_00007 = "??"
-define data_chr_mp_00006_00008 = "??"
-
-define data_chr_maxmp_00006_00001 = "??"
-define data_chr_maxmp_00006_00002 = "??"
-define data_chr_maxmp_00006_00003 = "??"
-define data_chr_maxmp_00006_00004 = "??"
-define data_chr_maxmp_00006_00005 = "??"
-define data_chr_maxmp_00006_00006 = "??"
-define data_chr_maxmp_00006_00007 = "??"
-define data_chr_maxmp_00006_00008 = "??"
-
-define data_chr_coins_00006_00001 = "??"
-define data_chr_coins_00006_00002 = "??"
-define data_chr_coins_00006_00003 = "??"
-define data_chr_coins_00006_00004 = "??"
-define data_chr_coins_00006_00005 = "??"
-define data_chr_coins_00006_00006 = "??"
-define data_chr_coins_00006_00007 = "??"
-define data_chr_coins_00006_00008 = "??"
-
-define data_chr_angry_00006_00001 = "??"
-define data_chr_angry_00006_00002 = "??"
-define data_chr_angry_00006_00003 = "??"
-define data_chr_angry_00006_00004 = "??"
-define data_chr_angry_00006_00005 = "??"
-define data_chr_angry_00006_00006 = "??"
-define data_chr_angry_00006_00007 = "??"
-define data_chr_angry_00006_00008 = "??"
-
-define data_chr_sadness_00006_00001 = "??"
-define data_chr_sadness_00006_00002 = "??"
-define data_chr_sadness_00006_00003 = "??"
-define data_chr_sadness_00006_00004 = "??"
-define data_chr_sadness_00006_00005 = "??"
-define data_chr_sadness_00006_00006 = "??"
-define data_chr_sadness_00006_00007 = "??"
-define data_chr_sadness_00006_00008 = "??"
-
-define data_chr_depression_00006_00001 = "??"
-define data_chr_depression_00006_00002 = "??"
-define data_chr_depression_00006_00003 = "??"
-define data_chr_depression_00006_00004 = "??"
-define data_chr_depression_00006_00005 = "??"
-define data_chr_depression_00006_00006 = "??"
-define data_chr_depression_00006_00007 = "??"
-define data_chr_depression_00006_00008 = "??"
-
-define data_chr_likeness_00006_00001 = "??"
-define data_chr_likeness_00006_00002 = "??"
-define data_chr_likeness_00006_00003 = "??"
-define data_chr_likeness_00006_00004 = "??"
-define data_chr_likeness_00006_00005 = "??"
-define data_chr_likeness_00006_00006 = "??"
-define data_chr_likeness_00006_00007 = "??"
-define data_chr_likeness_00006_00008 = "??"
-
-define data_chr_repetation_00006_00001 = "??"
-define data_chr_repetation_00006_00002 = "??"
-define data_chr_repetation_00006_00003 = "??"
-define data_chr_repetation_00006_00004 = "??"
-define data_chr_repetation_00006_00005 = "??"
-define data_chr_repetation_00006_00006 = "??"
-define data_chr_repetation_00006_00007 = "??"
-define data_chr_repetation_00006_00008 = "??"
-
-define save_name =(" ")
+default data_player_00000 = "??" # Name
+default data_player_00001 = "??" # Level
+default data_player_00002 = "??" # HP
+default data_player_00003 = "??" # HP Max
+default data_player_00004 = "??" # MP
+default data_player_00005 = "??" # MP Max
+default data_player_00006 = "??" # Happy
+default data_player_00007 = "??" # Sadness
+default data_player_00008 = "??" # Depression
+default data_player_00009 = "??" # Bored
+default data_player_00010 = "??" # Shyness

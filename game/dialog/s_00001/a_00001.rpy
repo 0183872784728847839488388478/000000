@@ -13,7 +13,7 @@ label data_dialog_00001_00001:
     data_ep_0 "she grabs a key from her breast pocket"
 
     #Keys Ringing
-    define data_chr_00005_00000_00000 = data_chr_00005_00001_00001
+    $ data_chr_00005_00000_00000 = data_chr_00005_00001_00001
     data_chr_00005_00000_00000 "One day we will go there and spend sometime"
 
     data_ep_0 "promise to make her father\'s promise come true at least"

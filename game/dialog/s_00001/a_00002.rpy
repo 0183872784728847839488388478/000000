@@ -130,7 +130,7 @@ label data_dialog_00001_00002:
 
     data_chr_00003_00003 "\"Also you can't damage anything in the library so don't worry about what you did\""
 
-    data_chr_00003_00003 "\"When Casting A Spell The Chanting Does Not Matter it's about how you define that spell you want\""
+    data_chr_00003_00003 "\"When Casting A Spell The Chanting Does Not Matter it's about how you  $ that spell you want\""
 
     data_chr_00005_00000_00000 "good grief I thought I destroy the library"
 

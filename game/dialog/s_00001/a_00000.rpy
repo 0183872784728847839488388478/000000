@@ -5,7 +5,8 @@ label data_dialog_00001_00000:
 
     data_chr "Umm what are those thing dad?" 
     
-    define data_chr_00005_00000_00000 = data_chr_00005_00000_00002
+    $ data_chr_00005_00000_00000 = data_chr_00005_00000_00002
+
     data_ep_0 "A cute girl questioning the webs in the sky"
 
     data_chr "Auriel, Those are skytread they are helping us to protect our kingdom"
