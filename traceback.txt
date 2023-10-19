@@ -1,32 +1,26 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/script.rpy", line 56, in script call
-    call function_betweenthedialog
-  File "game/rpyfunction/crossdialog.rpy", line 10, in script
-    $ _history_list.pop()
-  File "game/rpyfunction/crossdialog.rpy", line 10, in <module>
-    $ _history_list.pop()
-IndexError: pop from empty list
+  File "game/script.rpy", line 21, in script
+    $ persistent.player_name = player_name.strip()
+  File "game/script.rpy", line 21, in <module>
+    $ persistent.player_name = player_name.strip()
+AttributeError: 'int' object has no attribute 'strip'
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/script.rpy", line 56, in script call
-    call function_betweenthedialog
-  File "game/rpyfunction/crossdialog.rpy", line 10, in script
-    $ _history_list.pop()
+  File "game/script.rpy", line 21, in script
+    $ persistent.player_name = player_name.strip()
   File "E:\1\gamegenerator\renpy-8.1.3-sdk\renpy\ast.py", line 1138, in execute
     renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
   File "E:\1\gamegenerator\renpy-8.1.3-sdk\renpy\python.py", line 1122, in py_exec_bytecode
     exec(bytecode, globals, locals)
-  File "game/rpyfunction/crossdialog.rpy", line 10, in <module>
-    $ _history_list.pop()
-  File "E:\1\gamegenerator\renpy-8.1.3-sdk\renpy\revertable.py", line 97, in do_mutation
-    return method(self, *args, **kwargs)
-IndexError: pop from empty list
+  File "game/script.rpy", line 21, in <module>
+    $ persistent.player_name = player_name.strip()
+AttributeError: 'int' object has no attribute 'strip'
 
 Windows-10-10.0.22621 AMD64
 Ren'Py 8.1.3.23091805
 Skythread 1.0
-Wed Oct 18 17:06:56 2023
+Thu Oct 19 16:55:07 2023

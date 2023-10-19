@@ -9,4 +9,4 @@ label data_dialog_00000_00001:
     data_chr_00002_00002 "hmm?"
     data_chr_00002 "i think you are new here"
     data_chr_00002_00002 "your kinda rude"
-    jump end
+    return

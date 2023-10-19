@@ -17,7 +17,7 @@ label function_betweenthedialog:
     stop music
     stop audio
     stop sound
-    
+    play music data_music_library_1 loop
     "{fast}Loading{nw}"
     $ looptimes = random_number(3,5)
     scene loading_0
@@ -33,4 +33,7 @@ label function_betweenthedialog:
     scene blank
     $ renpy.notify('')
     $ _history_list = []
+    stop music
+    stop audio
+    stop sound
 

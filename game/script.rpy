@@ -15,28 +15,10 @@ label start:
 
     call function_betweenthedialog
 
-    if data_var_00000 == "dev":
-        $ player_name = "Droid"
-        menu:
-            data_chr_00002 "[player_name]: Jumping To Dev Menu?"
-            "Yes!":
-                jump dev_menu
-            "No!":
-                pass
 
-    elif data_var_00000 == "demo":
-        data_chr_00002 "Demo Mode Enabled{nw}"
-        data_chr_00002 "Starting the demo{nw}"
-        pass
-
-    else:
-        
-        data_chr_00002 "Err: Devmode is disabled{nw}"
-        jump end
-
-    while not player_name:
-        $ player_name = renpy.input("Your Name?")
-        $ player_name = player_name.strip()
+    while not persistent.player_name:
+        $ persistent.player_name = renpy.input("Your Name?")
+        $ persistent.player_name = persistent.player_name.strip()
     call function_betweenthedialog
     
     jump real_start
@@ -49,36 +31,38 @@ label real_start:
         "Story 0":
             call function_betweenthedialog
             call data_dialog_00000_00001
+            $ persistent.storage_story_00000_00000 = True
 
-        "Story 1":
-            
-            if data_points_story_1_0000 == 0:
+        "Story 1" if persistent.storage_story_00000_00000:
+            default persistent.data_points_story_1_0000 = 0
+
+            if persistent.data_points_story_1_0000 == 0:
                 call function_betweenthedialog
                 call data_dialog_00001_00000
-                $ data_points_story_1_0000 += 1
+                $ persistent.data_points_story_1_0000 += 1
 
-            if data_points_story_1_0000 == 1:
+            if persistent.data_points_story_1_0000 == 1:
                 call function_betweenthedialog
                 call data_dialog_00001_00001
-                $ data_points_story_1_0000 += 1
+                $ persistent.data_points_story_1_0000 += 1
 
-            if data_points_story_1_0000 == 2:
+            if persistent.data_points_story_1_0000 == 2:
                 call function_betweenthedialog
                 call data_dialog_00001_00002
-                $ data_points_story_1_0000 += 1
+                $ persistent.data_points_story_1_0000 += 1
 
-            if data_points_story_1_0000 == 3:
+            if persistent.data_points_story_1_0000 == 3:
                 call function_betweenthedialog
                 call data_dialog_00001_00003
-                $ data_points_story_1_0000 += 1
+                $ persistent.data_points_story_1_0000 += 1
 
-            if data_points_story_1_0000 == 4:
+            if persistent.data_points_story_1_0000 == 4:
                 call function_betweenthedialog
                 call data_dialog_00001_00004
-                $ data_points_story_1_0000 += 1
-            data_chr_00002 "Story Ended"
+                $ persistent.data_points_story_1_0000 += 1
+            
             $ data_points_story_1_0000 = 0
-
+    data_chr_00002 "Story Ended"
     jump end
 
 
