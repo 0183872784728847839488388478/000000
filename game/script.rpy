@@ -5,9 +5,6 @@
 
 label start:
     
-
-
-
     while not persistent.player_name:
         $ persistent.player_name = renpy.input("Your Name?")
         $ persistent.player_name = persistent.player_name.strip()
@@ -17,7 +14,6 @@ label start:
 
 
 label real_start:
-
     menu:
         "Story 0":
             call function_betweenthedialog
@@ -63,7 +59,6 @@ label dev_menu:
     menu:
         "Start?":
             call data_dialog_00001_00000
-            
         "EP 1":
             call data_dialog_00001_00001
         "EP 2":

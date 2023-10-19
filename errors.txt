@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/dialog/s_00001/a_00004.rpy", line 109: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
-    $ renpy.notify('To Auriel\'s POV')
-    ^
+File "game/rpyfunction/crossdialog.rpy", line 39: expected statement.
+    looptimes.del() 
+                    ^
 
 Ren'Py Version: Ren'Py 8.1.3.23091805
-Wed Oct 18 18:11:39 2023
+Thu Oct 19 19:20:24 2023
