@@ -16,17 +16,17 @@ label data_dialog_00001_00004:
 
     data_chr_00005_00000_00000 "good grief who are they? i dont want to approach them but they needing some help "
 
-    data_ep_flashback "if you are wondering why then lets go back 13 years ago"
+    $ renpy.notify('PAST')
 
     data_chr_00003_00001 "Aureil we will living in a big mansion inside the vast forest"
 
-    data_chr_00005_00000_00000 "really....i want to go there"
+    data_chr_00005_00000_00002 "really....i want to go there"
 
     data_chr_00003_00001 "sure but promise to me reveal it to anyone or it will be destroyed"
 
-    data_chr_00005_00000_00000 "i promise"
+    data_chr_00005_00000_00002 "i promise"
 
-    data_ep_future "going back to the future"
+    $ renpy.notify('Back To The Future')
 
     data_ep_0 "she did her cooking and goes to the table to eat"
 
@@ -215,7 +215,7 @@ label data_dialog_00001_00004:
 
     data_chr_00005_00000_00000 "well....it gave me a whole library full of books related to everything"
 
-    "Everyone" "WHAT?"
+    data_ep_0 "WHAT?"
 
     
     return

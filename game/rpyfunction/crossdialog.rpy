@@ -36,4 +36,5 @@ label function_betweenthedialog:
     stop music
     stop audio
     stop sound
+    return
 

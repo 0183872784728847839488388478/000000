@@ -6,21 +6,12 @@
 label start:
     
 
-    
-    data_chr_00002 "Checking what version is this{nw}"
-
-    call function_betweenthedialog
-
-    data_chr_00002 "Detected: {b}[data_var_00000]{/b} mode{nw}"
-
-    call function_betweenthedialog
 
 
     while not persistent.player_name:
         $ persistent.player_name = renpy.input("Your Name?")
         $ persistent.player_name = persistent.player_name.strip()
     call function_betweenthedialog
-    
     jump real_start
 
 
@@ -61,7 +52,7 @@ label real_start:
                 call data_dialog_00001_00004
                 $ persistent.data_points_story_1_0000 += 1
             
-            $ data_points_story_1_0000 = 0
+            $ persistent.data_points_story_1_0000 = 0
     data_chr_00002 "Story Ended"
     jump end
 
