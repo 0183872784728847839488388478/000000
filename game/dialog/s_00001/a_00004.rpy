@@ -1,6 +1,4 @@
 label data_dialog_00001_00004:
-    
-    call data_dialog_chr_00001_00004
 
     $ renpy.notify('Chapter 4')
 
@@ -216,6 +214,4 @@ label data_dialog_00001_00004:
     data_chr_00005_00000_00000 "well....it gave me a whole library full of books related to everything"
 
     data_ep_0 "WHAT?"
-
-    
     return

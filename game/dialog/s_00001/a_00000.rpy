@@ -19,6 +19,4 @@ label data_dialog_00001_00000:
     
     play music none
     data_ep_0 "Her Father died due to illiness and the promise never delivered"
-
-    
     return

@@ -149,7 +149,7 @@ define config.save_directory = "Droid/development/data"
 
 define config.window_icon = "gui/window_icon.png"
 
-
+define config.rollback_enabled = False
 ## Build configuration #########################################################
 ##
 ## This section controls how Ren'Py turns your project into distribution files.
@@ -181,13 +181,13 @@ init python:
     build.classify('**/#**', None)
     build.classify('**/thumbs.db', None)
     build.classify('game/**.rpy', None)
-    build.classify('game/**.txt', None)
+    
 
     ## To archive files, classify them as 'archive'.
 
     build.classify('game/**.png', 'archive')
     build.classify('game/**.jpg', 'archive')
-
+    build.classify('game/**.txt', 'archive')
     build.classify('game/audio/**', 'archive')
 
     ## Files matching documentation patterns are duplicated in a mac app build,

@@ -7,6 +7,7 @@ init python:
 
 
 label function_betweenthedialog:
+    $ renpy.block_rollback()
     $ _history_list = []
     image loading_0 = "gui/loading/1.png"
     image loading_1 = "gui/loading/2.png"
@@ -17,11 +18,11 @@ label function_betweenthedialog:
     stop audio
     stop sound
     play music data_music_library_1 loop
-    "{fast}Loading{nw}"
     $ looptimes = random_number(3,5)
-    scene loading_0
+    scene loading_0 with dissolve
     $ renpy.notify('LOADING...')
     while looptimes > 0:
+        $ renpy.block_rollback()
         pause 0.2
         scene loading_1
         pause 0.2
@@ -29,12 +30,14 @@ label function_betweenthedialog:
         pause 0.2
         scene loading_3
         $ looptimes -= 1
-    scene blank
+    scene blank with dissolve
     $ renpy.notify('')
     $ _history_list = []
     stop music
     stop audio
     stop sound
+
     $ del looptimes
+    $ renpy.block_rollback()
     return
 
