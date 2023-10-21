@@ -181,7 +181,7 @@ init python:
     build.classify('**/#**', None)
     build.classify('**/thumbs.db', None)
     build.classify('game/**.rpy', None)
-    
+    build.classify('game/audio/ignorethis/**', None)
 
     ## To archive files, classify them as 'archive'.
 
