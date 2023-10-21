@@ -253,7 +253,6 @@ screen quick_menu():
             textbutton _("History") action ShowMenu('history')
             textbutton _("Auto") action Preference("auto-forward", "toggle")
             textbutton _("Save") action ShowMenu('save')
-
             # textbutton _("Skip") action Skip() alternate Skip(fast=True, confirm=True)
             # textbutton _("Q.Save") action QuickSave()
             # textbutton _("Q.Load") action QuickLoad()
@@ -307,7 +306,6 @@ screen navigation():
             textbutton _("Save") action ShowMenu("save")
 
         textbutton _("Load") action ShowMenu("load")
-
         textbutton _("Preferences") action ShowMenu("preferences")
 
 #         if _in_replay:

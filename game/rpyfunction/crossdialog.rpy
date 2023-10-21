@@ -13,7 +13,6 @@ label function_betweenthedialog:
     image loading_2 = "gui/loading/3.png"
     image loading_3 = "gui/loading/4.png"
     image blank = "gui/noi.png"
-
     stop music
     stop audio
     stop sound
