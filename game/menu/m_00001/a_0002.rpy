@@ -36,7 +36,7 @@ label data_menu_00001_00002:
     
     if persistent.data_points_story_1_00000 == 5:
         $ renpy.notify('Story 1 - Complete')
-        
+        call data_menu_00001_00001_00001
 
 
     return

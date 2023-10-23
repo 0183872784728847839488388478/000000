@@ -1,6 +1,6 @@
 label data_menu_00001_00001_00001:
+    "You Already Read The Story 1"
     menu:
-        "You Already Read The Story 1"
         "Epiloge":
             call data_dialog_00001_00000
         "EP 1":
@@ -20,3 +20,4 @@ label data_menu_00001_00001_00001:
             return
         "Back":
             return
+    return
