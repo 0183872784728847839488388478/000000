@@ -28,7 +28,7 @@ label function_betweenthedialog:
         $ renpy.notify('LOADING...')
     else:
         $ looptimes = 7
-        $ renpy.notify('You Are Currently Playing For [minutes]:[seconds:02d].')
+        $ renpy.notify('Why This Exist?')
 
     while looptimes > 0:
         $ renpy.block_rollback()
