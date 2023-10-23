@@ -4,10 +4,10 @@
 
 
 label start:
-    
     while not persistent.player_name:
         $ persistent.player_name = renpy.input("Your Name?")
         $ persistent.player_name = persistent.player_name.strip()
+        $ data_player_00000 = persistent.player_name.strip()
     call function_betweenthedialog
     jump real_start
 
