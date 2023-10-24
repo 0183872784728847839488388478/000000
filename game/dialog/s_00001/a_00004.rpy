@@ -58,13 +58,13 @@ label data_dialog_00001_00004:
 
     pause 2.0
 
-    data_chr_00007_00001 "(Your Highness, A Powerful Magic Has Been Detected On The Forest Of Calamity)"
+    data_chr_00007_00001 "Your Highness, A Powerful Magic Has Been Detected On The Forest Of Calamity"
 
-    data_chr_00007_00000 "(Is it a threat against us)"
+    data_chr_00007_00000 "Is it a threat against us"
 
-    data_chr_00007_00001 "(No Your Highness, It Seems Like Its A Monster Using Their Magic And Died)"
+    data_chr_00007_00001 "No Your Highness, It Seems Like Its A Monster Using Their Magic And Died"
 
-    data_chr_00007_00000 "(Well Then Ignore It For Now, Also Lower The Call Chamber)"
+    data_chr_00007_00000 "Well Then Ignore It For Now, Also Lower The Call Chamber"
 
     data_ep_0 "Suddenly a hollowed cylinder made in glass started to lowered trapping the king and any sound from inside"
 
@@ -74,27 +74,27 @@ label data_dialog_00001_00004:
 
     $ renpy.notify('Somewhere In ?????') 
 
-    data_chr "(Hello)"
+    data_chr "Hello"
 
-    data_chr "(Hello King Whats You Up To Now?)"
+    data_chr "Hello King Whats You Up To Now?"
 
-    data_chr_00007_00000 "(a monster trying to cast a magic spell and died to mana excaustion, are you making overpowered monster?)"
+    data_chr_00007_00000 "a monster trying to cast a magic spell and died to mana excaustion, are you making overpowered monster?"
 
-    data_chr "(Hehe, no you misunderstood what happended)"
+    data_chr "Hehe, no you misunderstood what happended"
 
-    data_chr_00007_00000 "(what? can you tell me what happened)"
+    data_chr_00007_00000 "what? can you tell me what happened"
 
-    data_chr "(because i teleport 8 people from a world named earth and that monster is in the way so it cant be help)"
+    data_chr "because i teleport 8 people from a world named earth and that monster is in the way so it cant be help"
 
-    data_chr_00007_00000 "(you what? you teleport 8 people but did you even give them something)"
+    data_chr_00007_00000 "you what? you teleport 8 people but did you even give them something"
 
-    data_chr "(i forgot)"
+    data_chr "i forgot"
 
-    data_chr_00007_00000 "(You Forget? What a Monster You Are)"
+    data_chr_00007_00000 "You Forget? What a Monster You Are"
 
-    data_chr "(Sorry, but i hope Auriel will help them )"
+    data_chr "Sorry, but i hope Auriel will help them "
 
-    data_chr_00007_00000 "(Why are you trusting that girl anyway)"
+    data_chr_00007_00000 "Why are you trusting that girl anyway"
 
     data_ep_same "Back To The Group"
 
