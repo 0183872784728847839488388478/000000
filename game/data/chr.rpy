@@ -11,7 +11,6 @@ label data_dialog_chr_00000_00000:
     default data_ep_future = Character(">>>>>")
 
     default data_ep_pov_swap = Character("")
-
     #PLAEHOLDER
     default data_chr_00001 = Character("Robot?")
     default data_chr_00001_00001 = Character("Robot")
