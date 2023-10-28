@@ -34,11 +34,13 @@ label data_dialog_00001_00005:
 
     data_chr_00005_00008_00000 "Its Bigger than my house"
 
-    data_chr_00005_00006_00000 "Why Theres a Door at the middle of the room tho?"
+    data_ep_0 "Why Theres a Door at the middle of the room tho?"
 
     data_chr_00005_00000_00000 "well you see i dont really know too"
 
-    data_chr_00005_00006_00000 "Auriel suddenly teleported answered pepper\'s question"
+    data_chr_00005_00000_00000 "Auriel suddenly teleport and answer pepper\'s question"
 
-    data_ep_0 "Eee-p" 
+    data_chr_00005_00006_00000 "Eee-p" 
+
+    data_ep_0 ""
     return

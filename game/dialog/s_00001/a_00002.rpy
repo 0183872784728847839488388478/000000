@@ -112,9 +112,8 @@ label data_dialog_00001_00002:
     
     $ renpy.pause(15)
 
+    stop sound
     
-    
-    play music data_music_library_3 loop
 
     data_ep_0 "Suddenly a lightning strike to the room destroying the corridor and causing a fire"
 
@@ -123,7 +122,8 @@ label data_dialog_00001_00002:
     data_ep_0 "She run out of the corridor and look back on what she done"
 
     stop sound
-
+    
+    play music data_music_library_3 loop
     data_ep_0 "to her surprise everything is back to normal with a another paper placed on one of the tables"
 
     data_chr_00003_00003 "\"Using a magic in the library can be dangerous so I made a testing room near the door you went in.\""
